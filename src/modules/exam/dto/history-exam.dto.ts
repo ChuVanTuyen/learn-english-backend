@@ -6,18 +6,18 @@ export class CreateHistoryExamDto {
   content: { [key: string | number]: number };
 
   @IsInt()
-  @Min(0)
+  @Min(-1)
   time: number;
 
   @IsInt()
-  @Min(0)
-  correct_listent: number;
+  @Min(-1)
+  correct_listen: number;
 
   @IsInt()
-  @Min(0)
+  @Min(-1)
   correct_read: number;
 
   @IsInt()
-  @IsNotEmpty()
-  exam_id: number;
+  @Min(-1)
+  score: number;
 }

@@ -12,16 +12,16 @@ export class ExamService {
     private readonly logger = new Logger(ExamService.name);
     constructor(
         @InjectRepository(Question)
-        private readonly questionRepository: Repository<Question>,
+        private readonly questionRepo: Repository<Question>,
         @InjectRepository(Exam)
-        private readonly examRepository: Repository<Exam>,
-         @InjectRepository(HistoryExam)
-        private readonly historyExamRepository: Repository<HistoryExam>,
+        private readonly examRepo: Repository<Exam>,
+        @InjectRepository(HistoryExam)
+        private readonly historyExamRepo: Repository<HistoryExam>,
     ) { }
 
     async getDetailExam(id: number) {
         // B1: Lấy tất cả câu hỏi theo exam_id kèm part và skill
-        const questions = await this.questionRepository.find({
+        const questions = await this.questionRepo.find({
             where: { exam_id: id },
             relations: ['part', 'part.skill', 'exam', 'child_ques'],
             order: {
@@ -99,40 +99,66 @@ export class ExamService {
         };
     }
 
-    async syncHistoryExam(historyDto: CreateHistoryExamDto, userId: number) {
-        // Ghi log đầu vào
-        this.logger.log(`Syncing history practice`);
-
+    async syncHistoryExam(historyDto: CreateHistoryExamDto, userId: number, exam_id: number) {
         // Kiểm tra exam_id nếu có
-        const exam = await this.examRepository.findOne({ where: { id: historyDto.exam_id } });
+        const exam = await this.examRepo.findOne({ where: { id: exam_id } });
         if (!exam) {
-            this.logger.warn(`Exam not found: ${historyDto.exam_id}`);
-            throw new NotFoundException(`Exam with ID ${historyDto.exam_id} not found`);
+            this.logger.warn(`Exam not found: ${exam_id}`);
+            throw new NotFoundException(`Exam with ID ${exam_id} not found`);
         }
 
         try {
-            const newHistory = this.historyExamRepository.create({
+            const newHistory = this.historyExamRepo.create({
                 ...historyDto,
-                user_id: userId
+                user_id: userId,
+                exam_id
             });
-            const savedHistory = await this.historyExamRepository.save(newHistory);
+            const savedHistory = await this.historyExamRepo.save(newHistory);
 
             const response = {
                 id: savedHistory.id,
                 content: savedHistory.content,
-                correct_listent: savedHistory.correct_listent,
+                correct_listen: savedHistory.correct_listen,
                 correct_read: savedHistory.correct_read,
                 time: savedHistory.time,
                 exam_id: savedHistory.exam_id,
                 created_at: savedHistory.created_at,
                 updated_at: savedHistory.updated_at,
             };
-
-            this.logger.log(`History created successfully: ${savedHistory.id}`);
             return response;
         } catch (error) {
-            this.logger.error(`Failed to sync history: ${error.message}`, error.stack);
+            console.log(error);
             throw new BadRequestException('Failed to save history');
+        }
+    }
+
+    async getExamsAndHistoryByUserId(user_id?: number) {
+        const exams = await this.examRepo.find();
+        console.log(user_id);
+        if(user_id) {
+            const historyExams = await this.historyExamRepo.find({
+                where: { user_id },
+                order: { created_at: 'DESC' },
+            });    
+            return exams.map(exam => ({
+                ...exam,
+                histories: historyExams.filter(history => history.exam_id === exam.id),
+            }));
+        } else {
+            return exams;
+        }
+
+    }
+
+    async getDetailHistory(user_id: number, historyId: number) {
+        console.log(user_id, historyId);
+        try {
+            const detailHistory = await this.historyExamRepo.findOne({
+                where: {user_id, id: historyId}
+            });
+            return detailHistory;
+        } catch (error) {
+            throw new BadRequestException('Lấy lịch sử thất bại');
         }
     }
 }

@@ -1,0 +1,915 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 64734,
+            "word": "shop",
+            "pronounce": {
+                "gb": "ʃɒp",
+                "us": "ʃɑːp"
+            },
+            "mean": {
+                "vi": "cửa hàng, cửa hiệu (như) store",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 77626,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64735,
+            "word": "shop window",
+            "pronounce": {
+                "gb": "ˌʃɒp ˈwɪndəʊ",
+                "us": "ˌʃɑːp ˈwɪndəʊ"
+            },
+            "mean": {
+                "vi": "tủ kính bày hàng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 77628,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64736,
+            "word": "shop assistant",
+            "pronounce": {
+                "gb": "ˈʃɒp əsɪstənt",
+                "us": "ˈʃɑːp əsɪstənt"
+            },
+            "mean": {
+                "vi": "người bán hàng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 332184,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64737,
+            "word": "cashier",
+            "pronounce": {
+                "gb": "kæˈʃɪə(r)",
+                "us": "kæˈʃɪr"
+            },
+            "mean": {
+                "vi": "người nhận và trả tiền ở ngân hàng, cửa hàng, khách sạn...",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 12436,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64738,
+            "word": "aisle",
+            "pronounce": {
+                "gb": "aɪl",
+                "us": "aɪl"
+            },
+            "mean": {
+                "vi": "cánh, gian bên (trong giáo đường)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 2219,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64739,
+            "word": "shopping bag",
+            "pronounce": {
+                "gb": "ˈʃɒpɪŋ bæɡ",
+                "us": "ˈʃɑːpɪŋ bæɡ"
+            },
+            "mean": {
+                "vi": "giỏ đi chợ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 332235,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64740,
+            "word": "trolley",
+            "pronounce": {
+                "gb": "ˈtrɒli",
+                "us": "ˈtrɑːli"
+            },
+            "mean": {
+                "vi": "xe đẩy tay (dùng để chuyển hàng hoá)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 94838,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64741,
+            "word": "plastic bag",
+            "pronounce": {
+                "gb": "ˈplæstɪk bæɡ",
+                "us": "ˈplæstɪk bæɡ"
+            },
+            "mean": {
+                "vi": "túi nhựa dẻo",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 291604,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64742,
+            "word": "stockroom",
+            "pronounce": {
+                "gb": "ˈstɒkruːm, ˈstɒkrʊm",
+                "us": "ˈstɑːkruːm, ˈstɑːkrʊm"
+            },
+            "mean": {
+                "vi": "buồng kho (để hàng hoá)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 82996,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64743,
+            "word": "fitting room",
+            "pronounce": {
+                "gb": "ˈfɪtɪŋ ruːm, ˈfɪtɪŋ rʊm",
+                "us": "ˈfɪtɪŋ ruːm, ˈfɪtɪŋ rʊm"
+            },
+            "mean": {
+                "vi": "buồng thử (quần áo)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 200328,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64744,
+            "word": "shopping list",
+            "pronounce": {
+                "gb": "ˈʃɒpɪŋ lɪst",
+                "us": "ˈʃɑːpɪŋ lɪst"
+            },
+            "mean": {
+                "vi": "danh sách hàng mua",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 332243,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64745,
+            "word": "special offer",
+            "pronounce": {
+                "gb": "ˌspeʃl ˈɒfə(r)",
+                "us": "ˌspeʃl ˈɔːfər"
+            },
+            "mean": {
+                "vi": "giá chào đặc biệt (giá chào giảm giá để bán được hàng)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 341054,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64746,
+            "word": "price",
+            "pronounce": {
+                "gb": "praɪs",
+                "us": "praɪs"
+            },
+            "mean": {
+                "vi": "số tiền mua hoặc bán cái gì; giá",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 66494,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64747,
+            "word": "queue",
+            "pronounce": {
+                "gb": "kjuː",
+                "us": "kjuː"
+            },
+            "mean": {
+                "vi": "tóc thắt đuôi sam",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 69164,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64748,
+            "word": "brand",
+            "pronounce": {
+                "gb": "brænd",
+                "us": "brænd"
+            },
+            "mean": {
+                "vi": "nhãn (hàng hoá)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 10207,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64749,
+            "word": "sample",
+            "pronounce": {
+                "gb": "ˈsɑːmpl",
+                "us": "ˈsæmpl"
+            },
+            "mean": {
+                "vi": "mẫu; vật mẫu, hàng mẫu",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 74081,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64750,
+            "word": "leaflet",
+            "pronounce": {
+                "gb": "ˈliːflət",
+                "us": "ˈliːflət"
+            },
+            "mean": {
+                "vi": "lá non",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 47835,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64751,
+            "word": "billboard",
+            "pronounce": {
+                "gb": "ˈbɪlbɔːd",
+                "us": "ˈbɪlbɔːrd"
+            },
+            "mean": {
+                "vi": "(từ Mỹ, nghĩa Mỹ) bảng dán thông cáo, bảng dán yết thị",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 8596,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64752,
+            "word": "corner shop",
+            "pronounce": {
+                "gb": "ˈkɔːnə ʃɒp",
+                "us": "ˈkɔːrnər ʃɑːp"
+            },
+            "mean": {
+                "vi": "cửa hàng nhỏ gần khu nhà ở",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 161178,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64753,
+            "word": "department store",
+            "pronounce": {
+                "gb": "dɪˈpɑːtmənt stɔː(r)",
+                "us": "dɪˈpɑːrtmənt stɔːr"
+            },
+            "mean": {
+                "vi": "công ty bách hóa",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 171529,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64754,
+            "word": "discount store",
+            "pronounce": {
+                "gb": "ˈdɪskaʊnt stɔː(r)",
+                "us": "ˈdɪskaʊnt stɔːr"
+            },
+            "mean": {
+                "vi": "cửa hàng bán giá hạ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 176032,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64755,
+            "word": "flea market",
+            "pronounce": {
+                "gb": "ˈfliː mɑːkɪt",
+                "us": "ˈfliː mɑːrkɪt"
+            },
+            "mean": {
+                "vi": "chợ trời",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 31362,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64756,
+            "word": "franchise",
+            "pronounce": {
+                "gb": "ˈfræntʃaɪz",
+                "us": "ˈfræntʃaɪz"
+            },
+            "mean": {
+                "vi": "quyền đi bầu; quyền bầu cử",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 32802,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64757,
+            "word": "mall",
+            "pronounce": {
+                "gb": "mɔːl, mæl",
+                "us": "mɔːl"
+            },
+            "mean": {
+                "vi": "búa nặng, búa tạ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 50665,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64758,
+            "word": "shopping channel",
+            "pronounce": null,
+            "mean": {
+                "vi": "kênh mua sắm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64759,
+            "word": "e-commerce",
+            "pronounce": {
+                "gb": "ˈiː kɒmɜːs",
+                "us": "ˈiː kɑːmɜːrs"
+            },
+            "mean": {
+                "vi": "thương mại điện tử",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 182508,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64760,
+            "word": "retailer",
+            "pronounce": {
+                "gb": "ˈriːteɪlə(r)",
+                "us": "ˈriːteɪlər"
+            },
+            "mean": {
+                "vi": "người bán lẻ, thương nhân bán lẻ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 71882,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64761,
+            "word": "wholesaler",
+            "pronounce": {
+                "gb": "ˈhəʊlseɪlə(r)",
+                "us": "ˈhəʊlseɪlər"
+            },
+            "mean": {
+                "vi": "người bán buôn; người bán sỉ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 103014,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64762,
+            "word": "high-street name",
+            "pronounce": null,
+            "mean": {
+                "vi": "cửa hàng danh tiếng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64763,
+            "word": "up-market",
+            "pronounce": {
+                "gb": "ʌp ˈmɑːkɪt",
+                "us": "ʌp ˈmɑːrkɪt"
+            },
+            "mean": {
+                "vi": "ở đầu chợ, về phía đầu chợ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 99843,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64764,
+            "word": "wallet",
+            "pronounce": {
+                "gb": "ˈwɒlɪt",
+                "us": "ˈwɑːlɪt"
+            },
+            "mean": {
+                "vi": "đãy, bị (của người ăn mày); túi dết",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 101883,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64765,
+            "word": "purse",
+            "pronounce": {
+                "gb": "pɜːs",
+                "us": "pɜːrs"
+            },
+            "mean": {
+                "vi": "ví tiền, hầu bao",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 68543,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64766,
+            "word": "credit card",
+            "pronounce": {
+                "gb": "ˈkredɪt kɑːd",
+                "us": "ˈkredɪt kɑːrd"
+            },
+            "mean": {
+                "vi": "thẻ cho phép người cầm nó được mua chịu hàng hóa và dịch vụ; thẻ tín dụng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 18616,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64767,
+            "word": "get into debt",
+            "pronounce": null,
+            "mean": {
+                "vi": "nợ tiền",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64768,
+            "word": "refund",
+            "pronounce": {
+                "gb": "ˈriːfʌnd, rɪˈfʌnd",
+                "us": "ˈriːfʌnd, rɪˈfʌnd"
+            },
+            "mean": {
+                "vi": "sự trả lại, sự trả lại (tiền vay mượn, tiền đã chi trước...) (như) refundment",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 70906,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64769,
+            "word": "receipt",
+            "pronounce": {
+                "gb": "rɪˈsiːt",
+                "us": "rɪˈsiːt"
+            },
+            "mean": {
+                "vi": "ký nhận số tiền đã trả (trên một biên lại, hóa đơn); đóng dấu nhận thực \"đã trả\" (trên một hóa đơn)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 70347,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64770,
+            "word": "get someone the hard sell",
+            "pronounce": null,
+            "mean": {
+                "vi": "bắt ép ai đó mua hàng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64771,
+            "word": "be on a tight budget",
+            "pronounce": null,
+            "mean": {
+                "vi": "có giới hạn ngân sách tiêu dùng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64772,
+            "word": "be on commission",
+            "pronounce": null,
+            "mean": {
+                "vi": "được hưởng tiền hoa hồng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64773,
+            "word": "pay in cash",
+            "pronounce": null,
+            "mean": {
+                "vi": "thanh toán bằng tiền mặt",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64774,
+            "word": "pick up a bargain",
+            "pronounce": null,
+            "mean": {
+                "vi": "mặc cả, trả giá",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64775,
+            "word": "expensive",
+            "pronounce": {
+                "gb": "ɪkˈspensɪv",
+                "us": "ɪkˈspensɪv"
+            },
+            "mean": {
+                "vi": "đắt tiền",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 28735,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64776,
+            "word": "cost an arm and a leg",
+            "pronounce": {
+                "gb": "kɒst ən ɑːm ənd ə leɡ",
+                "us": "kɔːst ən ɑːrm ənd ə leɡ"
+            },
+            "mean": {
+                "vi": "rất đắt",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 465313,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64777,
+            "word": "cheap",
+            "pronounce": {
+                "gb": "tʃiːp",
+                "us": "tʃiːp"
+            },
+            "mean": {
+                "vi": "giá thấp; ít tốn tiền; rẻ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 13391,
+                "en": ""
+            },
+            "category": "shopping",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        }
+    ],
+    "first_page_url": "http://api.dunno.ai/api/notebooks/special/premium/shopping/100?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://api.dunno.ai/api/notebooks/special/premium/shopping/100?page=1",
+    "next_page_url": null,
+    "path": "http://api.dunno.ai/api/notebooks/special/premium/shopping/100",
+    "per_page": "100",
+    "prev_page_url": null,
+    "to": 44,
+    "total": 44
+}

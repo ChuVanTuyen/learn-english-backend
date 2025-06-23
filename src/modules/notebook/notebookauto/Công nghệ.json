@@ -1,0 +1,1581 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 65426,
+            "word": "abacus",
+            "pronounce": {
+                "gb": "ˈæbəkəs",
+                "us": "ˈæbəkəs"
+            },
+            "mean": {
+                "vi": "bàn tính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 395,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65427,
+            "word": "appliance",
+            "pronounce": {
+                "gb": "əˈplaɪəns",
+                "us": "əˈplaɪəns"
+            },
+            "mean": {
+                "vi": "thiết bị; dụng cụ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 4673,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65428,
+            "word": "circuit",
+            "pronounce": {
+                "gb": "ˈsɜːkɪt",
+                "us": "ˈsɜːrkɪt"
+            },
+            "mean": {
+                "vi": "chu vi, đường vòng quanh",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 14224,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65429,
+            "word": "computer",
+            "pronounce": null,
+            "mean": {
+                "vi": "Máy tính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65430,
+            "word": "device",
+            "pronounce": {
+                "gb": "dɪˈvaɪs",
+                "us": "dɪˈvaɪs"
+            },
+            "mean": {
+                "vi": "phương sách, phương kế; chước mưu",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 21818,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65431,
+            "word": "disk",
+            "pronounce": {
+                "gb": "dɪsk",
+                "us": "dɪsk"
+            },
+            "mean": {
+                "vi": "(tin học) đĩa máy tính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 22965,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65432,
+            "word": "hardware",
+            "pronounce": {
+                "gb": "ˈhɑːdweə(r)",
+                "us": "ˈhɑːrdwer"
+            },
+            "mean": {
+                "vi": "dụng cụ và đồ dùng trong nhà (chảo, đinh, khoá, đồ sắt chẳng hạn); đồ ngũ kim",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 37562,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65433,
+            "word": "memory",
+            "pronounce": {
+                "gb": "ˈmeməri",
+                "us": "ˈmeməri"
+            },
+            "mean": {
+                "vi": "năng lực của trí tuệ có thể nhớ lại các sự kiện; trí nhớ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 51914,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65434,
+            "word": "microprocessor",
+            "pronounce": {
+                "gb": "ˌmaɪkrəʊˈprəʊsesə(r)",
+                "us": "ˌmaɪkrəʊˈprɑːsesər"
+            },
+            "mean": {
+                "vi": "(tin học) đơn vị xử lý số liệu trung tâm của máy tính, có chứa một hoặc nhiều vi mạch; mạch vi xử lý",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 52387,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65435,
+            "word": "software",
+            "pronounce": {
+                "gb": "ˈsɒftweə(r)",
+                "us": "ˈsɔːftwer"
+            },
+            "mean": {
+                "vi": "phần mềm (của máy tính)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 79948,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65436,
+            "word": "equipment",
+            "pronounce": {
+                "gb": "ɪˈkwɪpmənt",
+                "us": "ɪˈkwɪpmənt"
+            },
+            "mean": {
+                "vi": "sự trang bị",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 27391,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65437,
+            "word": "gadget",
+            "pronounce": {
+                "gb": "ˈɡædʒɪt",
+                "us": "ˈɡædʒɪt"
+            },
+            "mean": {
+                "vi": "(thực vật học) bộ phận cải tiến (trong máy móc); máy cải tiến",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 33696,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65438,
+            "word": "microcomputer",
+            "pronounce": {
+                "gb": "ˈmaɪkrəʊkəmpjuːtə(r)",
+                "us": "ˈmaɪkrəʊkəmpjuːtər"
+            },
+            "mean": {
+                "vi": "máy tính nhỏ (dùng trong nhà hay ở các công sở) có trung tâm xử lý là mạch vi xử lý; máy vi tính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 52364,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65439,
+            "word": "keyboard",
+            "pronounce": {
+                "gb": "ˈkiːbɔːd",
+                "us": "ˈkiːbɔːrd"
+            },
+            "mean": {
+                "vi": "bàn phím (pianô); bàn chữ (máy chữ)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 46395,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65440,
+            "word": "terminal",
+            "pronounce": null,
+            "mean": {
+                "vi": "Máy trạm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65441,
+            "word": "computer mouse",
+            "pronounce": null,
+            "mean": {
+                "vi": "Chuột máy tính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65442,
+            "word": "screen",
+            "pronounce": {
+                "gb": "skriːn",
+                "us": "skriːn"
+            },
+            "mean": {
+                "vi": "bình phong, màn che",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 75221,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65443,
+            "word": "usb (universal serial bus)",
+            "pronounce": null,
+            "mean": {
+                "vi": "USB là một chuẩn truyền dữ liệu cho bus ngoại vi được Intel và Microsoft phát triển. Đây là sự thay thế cho việc có quá nhiều đầu nối (connector) và cổng ở mặt sau máy tính và đồng thời USB cũng là giao diện cho các thiết bị máy tính-điện thoại. Thay vì có nhiều chỗ kết nối cho bàn phím, chuột, máy in, modem, joystick, thiết bị âm, CD-ROM, máy ảnh kỹ thuật số, USB cung cấp một cổng duy nhất để kết nối với tất cả thiết bị. USB loại trừ nhiều rắc rối trên PC, chẳng hạn như phải tháo máy để cài đặt card, thay đổi các chuyển mạch dip, và khai báo các IRQ (interrupt requests). USB định nghĩa cổng và đồ hình bus với tốc độ truyền lên đến 12Mbit/s. Một dây cáp dài không quá 5m được dùng để kết nối dây chuyền các thiết bị đến một cổng duy nhất. Tối đa 63 thiết bị có thể đưa vào cổng bất cứ lúc nào mà không cần phải khởi động lại máy. Với sơ đồ mạng hình sao theo từng bậc, cho phép các thiết bị ngoại vi kết nối đến các hub (cung cấp nhiều cổng để kết nối). Trong vài trường hợp, hub hoạt động cần năng lượng điện. USB cũng cung cấp điện cho vài thiết bị để khỏi phải dùng dây nguồn hoặc pin. USB còn cho phép các thiết bị liên lạc với nhau về nhu cầu điện với bộ điều khiển USB trên máy chủ. TỪ MỤC LIÊN QUAN Connection Technologies; CTI (Computer-telephony Integration) THÔNG TIN TRÊN INTERNET Universal Serial Bus Implementers Forum Home Page http://www.usb.org Microsoft Corporation (search for USB) http://www.microsojt.com Intel’s USB site http://www.intel.computing/design/usb Newnex’s USB site http://www.newnex.computing/usb.html",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 423779,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65444,
+            "word": "alphanumeric data",
+            "pronounce": {
+                "gb": "ˌælfənjuːˈmerɪk ˈdeɪtə",
+                "us": "ˌælfənuːˈmerɪk ˈdeɪtə"
+            },
+            "mean": {
+                "vi": "dữ liệu chữ số",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 112451,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65445,
+            "word": "available",
+            "pronounce": {
+                "gb": "əˈveɪləbl",
+                "us": "əˈveɪləbl"
+            },
+            "mean": {
+                "vi": "sẵn có để dùng, sẵn sàng để dùng, có thể dùng được",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 6504,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65446,
+            "word": "application",
+            "pronounce": null,
+            "mean": {
+                "vi": "Ứng dụng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65447,
+            "word": "alphabetical catalog",
+            "pronounce": null,
+            "mean": {
+                "vi": "Mục lục xếp theo trật tự chữ cái",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65448,
+            "word": "abbreviation",
+            "pronounce": {
+                "gb": "əˌbriːviˈeɪʃn",
+                "us": "əˌbriːviˈeɪʃn"
+            },
+            "mean": {
+                "vi": "sự tóm tắt, sự rút ngắn (cuộc đi thăm...)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 429,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65449,
+            "word": "analysis",
+            "pronounce": {
+                "gb": "əˈnæləsɪs",
+                "us": "əˈnæləsɪs"
+            },
+            "mean": {
+                "vi": "sự phân tích; phép phân tích",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 3264,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65450,
+            "word": "broad classification",
+            "pronounce": null,
+            "mean": {
+                "vi": "Phân loại tổng quát",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65451,
+            "word": "background",
+            "pronounce": {
+                "gb": "ˈbækɡraʊnd",
+                "us": "ˈbækɡraʊnd"
+            },
+            "mean": {
+                "vi": "phần trong một cảnh quan, cảnh trí hoặc bảng miêu tả làm nền cho những vật hoặc những người chính; nền; hậu cảnh",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 6847,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65452,
+            "word": "cluster controller",
+            "pronounce": {
+                "gb": "ˈklʌstə(r) kənˈtrəʊlə(r)",
+                "us": "ˈklʌstər kənˈtrəʊlər"
+            },
+            "mean": {
+                "vi": "bộ điều khiển nhóm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 148190,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65453,
+            "word": "chief source of information",
+            "pronounce": null,
+            "mean": {
+                "vi": "Nguồn thông tin chính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65454,
+            "word": "configuration",
+            "pronounce": {
+                "gb": "kənˌfɪɡəˈreɪʃn",
+                "us": "kənˌfɪɡjəˈreɪʃn"
+            },
+            "mean": {
+                "vi": "hình thể, hình dạng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 16567,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65455,
+            "word": "common",
+            "pronounce": null,
+            "mean": {
+                "vi": "Thông thường",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65456,
+            "word": "compatible",
+            "pronounce": {
+                "gb": "kəmˈpætəbl",
+                "us": "kəmˈpætəbl"
+            },
+            "mean": {
+                "vi": "hợp nhau, tương hợp",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 16081,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65457,
+            "word": "data",
+            "pronounce": {
+                "gb": "ˈdeɪtə, ˈdɑːtə",
+                "us": "ˈdeɪtə, ˈdætə"
+            },
+            "mean": {
+                "vi": "số nhiều của datum",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 19999,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65458,
+            "word": "gateway",
+            "pronounce": {
+                "gb": "ˈɡeɪtweɪ",
+                "us": "ˈɡeɪtweɪ"
+            },
+            "mean": {
+                "vi": "cổng ra vào",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 34226,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65459,
+            "word": "intranet",
+            "pronounce": {
+                "gb": "ˈɪntrənet",
+                "us": "ˈɪntrənet"
+            },
+            "mean": {
+                "vi": "mạng cục bộ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 235167,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65460,
+            "word": "graphics",
+            "pronounce": {
+                "gb": "ˈɡræfɪks",
+                "us": "ˈɡræfɪks"
+            },
+            "mean": {
+                "vi": "chữ viết, hình vẽ...; đồ họa",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 35970,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65461,
+            "word": "multi-user",
+            "pronounce": {
+                "gb": "ˌmʌlti ˈjuːzə(r)",
+                "us": "ˌmʌlti ˈjuːzər, ˌmʌltaɪ ˈjuːzər"
+            },
+            "mean": {
+                "vi": "Nhiều người dùng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 427115,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65462,
+            "word": "operating system",
+            "pronounce": {
+                "gb": "ˈɒpəreɪtɪŋ sɪstəm",
+                "us": "ˈɑːpəreɪtɪŋ sɪstəm"
+            },
+            "mean": {
+                "vi": "(tin học) hệ điều hành",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 57405,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65463,
+            "word": "osi (open system interconnection)",
+            "pronounce": null,
+            "mean": {
+                "vi": "hợp mạng các hệ thống mở",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 279460,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65464,
+            "word": "operation",
+            "pronounce": null,
+            "mean": {
+                "vi": "Thao tác",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65465,
+            "word": "packet",
+            "pronounce": {
+                "gb": "ˈpækɪt",
+                "us": "ˈpækɪt"
+            },
+            "mean": {
+                "vi": "gói nhỏ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 59288,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65466,
+            "word": "ppp (point-to-point protocol)",
+            "pronounce": null,
+            "mean": {
+                "vi": "Giao thức liên kết điểm-điểm Có hai phương pháp được cộng đồng Internet chấp nhận khi đóng gói và truyền tải gói dữ liệu IP qua một chuỗi các liên kết điểm-điểm. SLIP (Serial Line Internet Protocol) là phương pháp thứ nhất, và PPP (Point-to-Point Protocol: Giao thức kết nối điểm-điểm) là phương pháp thứ hai. Trong khi SLIP là giao thức nguyên thủy, PPP vẫn chiếm ưu thế hơn bởi vì nó hoạt động chung với các giao thức khác như IPX (Internetwork Packet Exchange). PPP được định nghĩa bởi IETF trong tài liệu RFC từ số 1661 đến 1663. PPP cung cấp các nối kết từ bộ định tuyến nầy đến bộ định tuyến kia, từ host đến bộ định tuyến, và từ host đến host. PPP được sử dụng phổ biến cho các liên kết Internet trên các đường dây quay số. Ví dụ, các người dùng tại nhà quay số đến các ISP (Internet service providers) tại địa phương của họ. Sau khi modem đã tạo ra một nối kết, một phiên PPP được thiết lập giữa hệ thống của người dùng và nhà cung cấp dịch vụ. Giai đoạn thiết lập bao gồm sự xác thực quyền truy cập của người dùng và việc khai báo địa chỉ IP. Về cơ bản, máy vi tính của người dùng bây giờ được xem là thiết bị nối thêm vào hệ thống mạng IP của nhà cung cấp dịch vụ Internet và cổng nối tiếp cùng với modem của người dùng có cùng chức năng như một card giao diện mạng được nối vào hệ thống mạng của ISP. PPP sử dụng phương pháp chia khung dữ liệu để đóng gói các gói tin ở giao thức cấp cao rồi truyền tải chúng qua các liên kết. Định dạng các frame được mô tả như trong hình P-9 và các điểm dưới đây: 11. Delimiters Các khoảng giới hạn - đánh dấu điểm bắt đầu và kết thúc của một frame 12. Address Địa chỉ đích đến 13. Control Số thứ tự để đảm bảo cho các điều khiển thích hợp 14. Protocol Xác định giao thức trong frame (IP, IPX, AppleTalk, …vv) 15. Data Chứa dữ liệu, có thể có các chiều dài khác nhau. 16. Frame Check Sequence Tính tổng kiểm tra, dùng cho cho việc phát hiện lỗi. Tầng vật lý của PPP hỗ trợ sự chuyển giao trên các đường dây bất đồng bộ và đồng bộ thông qua giao thức truyền thông nối tiếp như EIA-232-E, EIA-422, EIA-423, cũng như CCITT phiên bản V.34 và V.35. Hình P-9 Khuôn dạng khung dữ liệu của giao thức PPP Tầng liên kết dữ liệu dựa trên cơ sở cấu trúc frame của điều khiển HDLC (High-level Data Link Control: điều khiển liên kết dữ liệu cấp cao). Giao thức LCP (Link Control Protocol: Giao thức điều khiển liên kết) thiết lập và quản lý các liên kết giữa hai trạm được nối với nhau. Nó thành lập các phương pháp đóng gói và kích thước gói, phương pháp nén dữ liệu, và các giao thức xác thực quyền (thông qua ID và mật mã của người dùng). Hệ thống đang tiếp nhận phúc đáp lại bằng các gói tin LCP khác để thừa nhận và thẩm tra hay từ chối các lựa chọn cấu hình. Một khi nối kết đã được tạo ra, một giao thức điều khiển mạng được sử dụng để dàn xếp cấu hình của các loại giao thức, để hai máy chủ (host) có thể bắt đầu trao đổi dữ liệu. Từ mục liên quan Inetrnet Connections; IPSec (IP Security); PPTP (Point-to-Point Tunneling Protocol); Routers; Sercurity; Serial communication and Interfaces; SLIP (Serial Line Internet Protocol); S/WAN (Secure WAN); tunels; Virtual Dial-up Services; VPN (Virtual Private Network); and WAN (Wide Area Network) Thông tin trên internet PPP Authentication Protocols (RFC 1334) http://www.internic.net/rfc/rfc1334.txt IETF Point-to-Point Protocol Extensions (pppext) charter http://www.ieft.org/html.charters/pppext-charter.html Yahoo!’s PPP (Point-to-Point Protocol) links page http://www.yahoo.com/Computer_and_Internet/Information_and_Documentation/Protocols/PPP_point_to_Point_Protocols/ppp.html PPP FAQ http://www.incoma.ru/protocols/ppp.html PPP FAQ Part 2 http://usenet.umr.edu/faqs/ppp-faq/part2",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 422076,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65467,
+            "word": "port",
+            "pronounce": {
+                "gb": "pɔːt",
+                "us": "pɔːrt"
+            },
+            "mean": {
+                "vi": "cảng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 65184,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65468,
+            "word": "protocol",
+            "pronounce": {
+                "gb": "ˈprəʊtəkɒl",
+                "us": "ˈprəʊtəkɑːl"
+            },
+            "mean": {
+                "vi": "nghi thức ngoại giao; lễ tân",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 67637,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65469,
+            "word": "pinpoint",
+            "pronounce": {
+                "gb": "ˈpɪnpɔɪnt",
+                "us": "ˈpɪnpɔɪnt"
+            },
+            "mean": {
+                "vi": "đầu đinh ghim; (nghĩa bóng) vật nhỏ và nhọn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 63313,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65470,
+            "word": "source code",
+            "pronounce": {
+                "gb": "ˈsɔːs kəʊd",
+                "us": "ˈsɔːrs kəʊd"
+            },
+            "mean": {
+                "vi": "mã nguồn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 340195,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65471,
+            "word": "storage",
+            "pronounce": {
+                "gb": "ˈstɔːrɪdʒ",
+                "us": "ˈstɔːrɪdʒ"
+            },
+            "mean": {
+                "vi": "sự cất giữ, sự dự trữ, sự tích trữ (hàng hoá, dữ liệu..)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 83146,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65472,
+            "word": "technical",
+            "pronounce": null,
+            "mean": {
+                "vi": "Thuộc về kỹ thuật",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65473,
+            "word": "text",
+            "pronounce": {
+                "gb": "tekst",
+                "us": "tekst"
+            },
+            "mean": {
+                "vi": "phần viết hoặc in chính của một cuốn sách hoặc một trang (khác với chú thích, biểu đồ, minh hoạ...); bản văn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 87156,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65474,
+            "word": "remote access",
+            "pronounce": {
+                "gb": "rɪˌməʊt ˈækses",
+                "us": "rɪˌməʊt ˈækses"
+            },
+            "mean": {
+                "vi": "sự truy nhập từ xa",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 313583,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65475,
+            "word": "union catalog",
+            "pronounce": null,
+            "mean": {
+                "vi": "Mục lục liên hợp. Thư mục thể hiện những tài liệu ở nhiều thư viện hay kho tư liệu",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65476,
+            "word": "authority work",
+            "pronounce": null,
+            "mean": {
+                "vi": "Công tác biên mục (tạo ra các điểm truy cập) đối với tên, tựa đề hay chủ đề",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65477,
+            "word": "cataloging",
+            "pronounce": null,
+            "mean": {
+                "vi": "Công tác biên mục",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65478,
+            "word": "certification",
+            "pronounce": {
+                "gb": "ˌsɜːtɪfɪˈkeɪʃn",
+                "us": "ˌsɜːrtɪfɪˈkeɪʃn"
+            },
+            "mean": {
+                "vi": "sự cấp giấy chứng nhận",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 13048,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65479,
+            "word": "chief",
+            "pronounce": {
+                "gb": "tʃiːf",
+                "us": "tʃiːf"
+            },
+            "mean": {
+                "vi": "người lãnh đạo (nhất là của một bộ lạc hoặc thị tộc); thủ lĩnh; tù trưởng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 13615,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65480,
+            "word": "consultant",
+            "pronounce": null,
+            "mean": {
+                "vi": "Cố vấn, chuyên viên tham vấn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65481,
+            "word": "convenience",
+            "pronounce": {
+                "gb": "kənˈviːniəns",
+                "us": "kənˈviːniəns"
+            },
+            "mean": {
+                "vi": "sự tiện lợi, sự thuận lợi; sự thuận tiện",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 17340,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65482,
+            "word": "database",
+            "pronounce": {
+                "gb": "ˈdeɪtəbeɪs, ˈdɑːtəbeɪs",
+                "us": "ˈdeɪtəbeɪs, ˈdætəbeɪs"
+            },
+            "mean": {
+                "vi": "cơ sở dữ liệu",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 20004,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65483,
+            "word": "deal",
+            "pronounce": {
+                "gb": "diːl",
+                "us": "diːl"
+            },
+            "mean": {
+                "vi": "gỗ thông hoặc tùng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 20195,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65484,
+            "word": "demand",
+            "pronounce": {
+                "gb": "dɪˈmɑːnd",
+                "us": "dɪˈmænd"
+            },
+            "mean": {
+                "vi": "sự đòi hỏi, sự yêu cầu; nhu cầu",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 21000,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65485,
+            "word": "detailed",
+            "pronounce": {
+                "gb": "ˈdiːteɪld",
+                "us": "ˈdiːteɪld, dɪˈteɪld"
+            },
+            "mean": {
+                "vi": "cặn kẽ, tỉ mỉ, nhiều chi tiết",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 21674,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65486,
+            "word": "drawback",
+            "pronounce": {
+                "gb": "ˈdrɔːbæk",
+                "us": "ˈdrɔːbæk"
+            },
+            "mean": {
+                "vi": "điều trở ngại, mặt hạn chế, mặt không thuận lợi",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 24197,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65487,
+            "word": "develop",
+            "pronounce": null,
+            "mean": {
+                "vi": "Phát triển",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65488,
+            "word": "effective",
+            "pronounce": null,
+            "mean": {
+                "vi": "Có hiệu lực",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65489,
+            "word": "efficient",
+            "pronounce": {
+                "gb": "ɪˈfɪʃnt",
+                "us": "ɪˈfɪʃnt"
+            },
+            "mean": {
+                "vi": "có hiệu lực, có hiệu quả",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 25397,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65490,
+            "word": "enterprise",
+            "pronounce": {
+                "gb": "ˈentəpraɪz",
+                "us": "ˈentərpraɪz"
+            },
+            "mean": {
+                "vi": "công trình hoặc công việc kinh doanh (nhất là công trình khó khăn hoặc đòi hỏi phải dũng cảm); sự nghiệp",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 26835,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65491,
+            "word": "employ",
+            "pronounce": {
+                "gb": "ɪmˈplɔɪ",
+                "us": "ɪmˈplɔɪ"
+            },
+            "mean": {
+                "vi": "dịch vụ hoặc sự làm thuê",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 26180,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65492,
+            "word": "environment",
+            "pronounce": {
+                "gb": "ɪnˈvaɪrənmənt",
+                "us": "ɪnˈvaɪrənmənt"
+            },
+            "mean": {
+                "vi": "điều kiện, hoàn cảnh tác động đến đời sống của mọi người; môi trường",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 27005,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65493,
+            "word": "expertise",
+            "pronounce": {
+                "gb": "ˌekspɜːˈtiːz",
+                "us": "ˌekspɜːrˈtiːz"
+            },
+            "mean": {
+                "vi": "ý kiến của giới chuyên môn (về một vấn đề nào đó)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 28756,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65494,
+            "word": "eye strain",
+            "pronounce": {
+                "gb": "ˈaɪ streɪn",
+                "us": "ˈaɪ streɪn"
+            },
+            "mean": {
+                "vi": "căng mắt (trước màn hình...)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 194795,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65495,
+            "word": "goal",
+            "pronounce": {
+                "gb": "ɡəʊl",
+                "us": "ɡəʊl"
+            },
+            "mean": {
+                "vi": "(thể dục, thể thao) khung thành, cầu môn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 35320,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65496,
+            "word": "implement",
+            "pronounce": {
+                "gb": "ˈɪmplɪment, ˈɪmplɪmənt",
+                "us": "ˈɪmplɪment, ˈɪmplɪmənt"
+            },
+            "mean": {
+                "vi": "thi hành, thực hiện đầy đủ (giao kèo, khế ước...)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 41458,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65497,
+            "word": "increase",
+            "pronounce": {
+                "gb": "ɪnˈkriːs, ˈɪŋkriːs",
+                "us": "ɪnˈkriːs, ˈɪŋkriːs"
+            },
+            "mean": {
+                "vi": "sự tăng, sự tăng thêm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 42396,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65498,
+            "word": "install",
+            "pronounce": null,
+            "mean": {
+                "vi": "Cài đặt",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65499,
+            "word": "instruction",
+            "pronounce": null,
+            "mean": {
+                "vi": "Chỉ thị, chỉ dẫn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65500,
+            "word": "insurance",
+            "pronounce": null,
+            "mean": {
+                "vi": "Bảo hiểm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65501,
+            "word": "integrate",
+            "pronounce": null,
+            "mean": {
+                "vi": "Hợp nhất, sáp nhập",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65502,
+            "word": "productivity",
+            "pronounce": null,
+            "mean": {
+                "vi": "Hiệu suất",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        },
+        {
+            "id": 65503,
+            "word": "leadership",
+            "pronounce": {
+                "gb": "ˈliːdəʃɪp",
+                "us": "ˈliːdərʃɪp"
+            },
+            "mean": {
+                "vi": "cương vị lãnh đạo; sự lãnh đạo",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 47802,
+                "en": ""
+            },
+            "category": "cong_nghe",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:12",
+            "updated_at": "2022-08-17 04:35:12"
+        }
+    ],
+    "first_page_url": "http://api.dunno.ai/api/notebooks/special/premium/cong_nghe/100?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://api.dunno.ai/api/notebooks/special/premium/cong_nghe/100?page=1",
+    "next_page_url": null,
+    "path": "http://api.dunno.ai/api/notebooks/special/premium/cong_nghe/100",
+    "per_page": "100",
+    "prev_page_url": null,
+    "to": 78,
+    "total": 78
+}

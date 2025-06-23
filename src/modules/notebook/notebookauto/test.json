@@ -1,0 +1,42 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 64321,
+            "word": "excited",
+            "pronounce": null,
+            "mean": {
+                "vi": "phấn khích, hứng thú",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64322,
+            "word": "amused",
+            "pronounce": null,
+            "mean": {
+                "vi": "vui vẻ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        }
+    ],
+    "total": 61
+}

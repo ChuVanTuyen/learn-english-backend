@@ -10,6 +10,7 @@ import { PracticeModule } from './modules/practice/practice.module';
 import { APP_GUARD } from '@nestjs/core';
 import { JwtAuthGuard } from './modules/auth/passport/jwt-auth.guard';
 import { DictionaryModule } from './modules/dictionary/dictionary.module';
+import { NotebookModule } from './modules/notebook/notebook.module';
 
 @Module({
   imports: [
@@ -29,6 +30,7 @@ import { DictionaryModule } from './modules/dictionary/dictionary.module';
     ExamModule,
     PracticeModule,
     DictionaryModule,
+    NotebookModule,
   ],
   controllers: [AppController],
   providers: [

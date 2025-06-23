@@ -1,0 +1,1259 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 64321,
+            "word": "excited",
+            "pronounce": null,
+            "mean": {
+                "vi": "phấn khích, hứng thú",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64322,
+            "word": "amused",
+            "pronounce": null,
+            "mean": {
+                "vi": "vui vẻ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64323,
+            "word": "ecstatic",
+            "pronounce": {
+                "gb": "ɪkˈstætɪk",
+                "us": "ɪkˈstætɪk"
+            },
+            "mean": {
+                "vi": "gây ra hoặc thể hiện trạng thái mê ly",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 25197,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64324,
+            "word": "delighted",
+            "pronounce": {
+                "gb": "dɪˈlaɪtɪd",
+                "us": "dɪˈlaɪtɪd"
+            },
+            "mean": {
+                "vi": "vui mừng, hài lòng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 20923,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64325,
+            "word": "confident",
+            "pronounce": null,
+            "mean": {
+                "vi": "tự tin",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64326,
+            "word": "surprised",
+            "pronounce": {
+                "gb": "səˈpraɪzd",
+                "us": "sərˈpraɪzd"
+            },
+            "mean": {
+                "vi": "(+ at) ngạc nhiên",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 85175,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64327,
+            "word": "enthusiastic",
+            "pronounce": {
+                "gb": "ɪnˌθjuːziˈæstɪk",
+                "us": "ɪnˌθuːziˈæstɪk"
+            },
+            "mean": {
+                "vi": "hăng hái, nhiệt tình; say mê",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 26861,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64328,
+            "word": "great",
+            "pronounce": {
+                "gb": "ɡreɪt",
+                "us": "ɡreɪt"
+            },
+            "mean": {
+                "vi": "lớn, to lớn, vĩ đại",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 36112,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64329,
+            "word": "happy",
+            "pronounce": {
+                "gb": "ˈhæpi",
+                "us": "ˈhæpi"
+            },
+            "mean": {
+                "vi": "vui sướng, vui lòng (một công thức xã giao)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 37446,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64330,
+            "word": "over the moon",
+            "pronounce": {
+                "gb": "ˌəʊvə ðə muːn",
+                "us": "ˌəʊvər ðə muːn"
+            },
+            "mean": {
+                "vi": "cảm thấy cực kỳ hạnh phúc",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 465927,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64331,
+            "word": "overjoyed",
+            "pronounce": {
+                "gb": "ˌəʊvəˈdʒɔɪd",
+                "us": "ˌəʊvərˈdʒɔɪd"
+            },
+            "mean": {
+                "vi": "vui mừng khôn xiết",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 58799,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64332,
+            "word": "positive",
+            "pronounce": null,
+            "mean": {
+                "vi": "lạc quan",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64333,
+            "word": "relaxed",
+            "pronounce": {
+                "gb": "rɪˈlækst",
+                "us": "rɪˈlækst"
+            },
+            "mean": {
+                "vi": "thanh thản, thoải mái, không cảm thấy lo nghĩ, không cảm thấy căng thẳng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 71137,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64334,
+            "word": "wonderful",
+            "pronounce": {
+                "gb": "ˈwʌndəfl",
+                "us": "ˈwʌndərfl"
+            },
+            "mean": {
+                "vi": "kỳ lạ, phi thường, kỳ diệu, gây ra sửng sốt, rất ngạc nhiên",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 103499,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64335,
+            "word": "terrific",
+            "pronounce": {
+                "gb": "təˈrɪfɪk",
+                "us": "təˈrɪfɪk"
+            },
+            "mean": {
+                "vi": "(thông tục) rất lớn; cực kỳ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 87046,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64336,
+            "word": "sad",
+            "pronounce": {
+                "gb": "sæd",
+                "us": "sæd"
+            },
+            "mean": {
+                "vi": "buồn rầu, buồn bã",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 73711,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64337,
+            "word": "scared",
+            "pronounce": {
+                "gb": "skeəd",
+                "us": "skerd"
+            },
+            "mean": {
+                "vi": "bị hoảng sợ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 74716,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64338,
+            "word": "angry",
+            "pronounce": {
+                "gb": "ˈæŋɡri",
+                "us": "ˈæŋɡri"
+            },
+            "mean": {
+                "vi": "(angry with somebody) (angry at / about something) giận, tức giận, cáu",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 3555,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64339,
+            "word": "anxious",
+            "pronounce": {
+                "gb": "ˈæŋkʃəs",
+                "us": "ˈæŋkʃəs"
+            },
+            "mean": {
+                "vi": "(anxious about / for somebody / something) lo âu; băn khoăn; khắc khoải",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 4331,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64340,
+            "word": "annoyed",
+            "pronounce": {
+                "gb": "əˈnɔɪd",
+                "us": "əˈnɔɪd"
+            },
+            "mean": {
+                "vi": "bị trái ý, khó chịu, bực mình",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 3712,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64341,
+            "word": "appalled",
+            "pronounce": {
+                "gb": "əˈpɔːld",
+                "us": "əˈpɔːld"
+            },
+            "mean": {
+                "vi": "cảm thấy hoặc thể hiện sự kinh hoàng trước điều gì đó khó chịu hoặc sai trái",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 472086,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64342,
+            "word": "horrified",
+            "pronounce": {
+                "gb": "ˈhɒrɪfaɪd",
+                "us": "ˈhɔːrɪfaɪd"
+            },
+            "mean": {
+                "vi": "cực kỳ sốc hoặc sợ hãi",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 472125,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64343,
+            "word": "apprehensive",
+            "pronounce": null,
+            "mean": {
+                "vi": "hơi lo lắng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64344,
+            "word": "nervous",
+            "pronounce": {
+                "gb": "ˈnɜːvəs",
+                "us": "ˈnɜːrvəs"
+            },
+            "mean": {
+                "vi": "(thuộc) thần kinh",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 54713,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64345,
+            "word": "arrogant",
+            "pronounce": {
+                "gb": "ˈærəɡənt",
+                "us": "ˈærəɡənt"
+            },
+            "mean": {
+                "vi": "kiêu ngạo, kiêu căng; ngạo mạn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 5198,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64346,
+            "word": "unhappy",
+            "pronounce": {
+                "gb": "ʌnˈhæpi",
+                "us": "ʌnˈhæpi"
+            },
+            "mean": {
+                "vi": "buồn rầu, khổ sở, khốn khổ, không vui",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 97809,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64347,
+            "word": "ashamed",
+            "pronounce": {
+                "gb": "əˈʃeɪmd",
+                "us": "əˈʃeɪmd"
+            },
+            "mean": {
+                "vi": "(ashamed of something / somebody / oneself) xấu hổ; hổ thẹn; ngượng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 5539,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64348,
+            "word": "bewildered",
+            "pronounce": null,
+            "mean": {
+                "vi": "rất bối rối",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64349,
+            "word": "malicious",
+            "pronounce": {
+                "gb": "məˈlɪʃəs",
+                "us": "məˈlɪʃəs"
+            },
+            "mean": {
+                "vi": "hiểm độc, có ác tâm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 50651,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64350,
+            "word": "negative",
+            "pronounce": {
+                "gb": "ˈneɡətɪv",
+                "us": "ˈneɡətɪv"
+            },
+            "mean": {
+                "vi": "lời từ chối, lời cự tuyệt",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 54597,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64351,
+            "word": "overwhelmed",
+            "pronounce": null,
+            "mean": {
+                "vi": "choáng ngợp",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64352,
+            "word": "reluctant",
+            "pronounce": {
+                "gb": "rɪˈlʌktənt",
+                "us": "rɪˈlʌktənt"
+            },
+            "mean": {
+                "vi": "(reluctant to do something) miễn cưỡng; bất đắc dĩ, không tự nguyện, không sẵn lòng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 71206,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64353,
+            "word": "seething",
+            "pronounce": {
+                "base": "'siːðiη"
+            },
+            "mean": {
+                "vi": "nóng sôi; sôi sùng sục",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 75875,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64354,
+            "word": "stressed",
+            "pronounce": {
+                "gb": "strest",
+                "us": "strest"
+            },
+            "mean": {
+                "vi": "chịu ứng suất",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 349342,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64355,
+            "word": "tired",
+            "pronounce": {
+                "gb": "ˈtaɪəd",
+                "us": "ˈtaɪərd"
+            },
+            "mean": {
+                "vi": "mệt; muốn ngủ, muốn nghỉ ngơi",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 88404,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64356,
+            "word": "suspicious",
+            "pronounce": {
+                "gb": "səˈspɪʃəs",
+                "us": "səˈspɪʃəs"
+            },
+            "mean": {
+                "vi": "(suspicious about / of somebody / something) có sự nghi ngờ, tỏ ra có sự nghi ngờ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 85246,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64357,
+            "word": "terrible",
+            "pronounce": {
+                "gb": "ˈterəbl",
+                "us": "ˈterəbl"
+            },
+            "mean": {
+                "vi": "khủng khiếp; gây ra khiếp sợ, gây ra đau khổ, gây kinh hoàng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 87040,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64358,
+            "word": "terrified",
+            "pronounce": {
+                "gb": "ˈterɪfaɪd",
+                "us": "ˈterɪfaɪd"
+            },
+            "mean": {
+                "vi": "cảm thấy khiếp sợ, rất kinh hãi",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 87048,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64359,
+            "word": "tense",
+            "pronounce": {
+                "gb": "tens",
+                "us": "tens"
+            },
+            "mean": {
+                "vi": "(ngôn ngữ học) thời (của động từ)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 86929,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64360,
+            "word": "thoughtful",
+            "pronounce": {
+                "gb": "ˈθɔːtfl",
+                "us": "ˈθɔːtfl"
+            },
+            "mean": {
+                "vi": "trầm ngâm; trầm tư; tư lự",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 87908,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64361,
+            "word": "upset",
+            "pronounce": {
+                "gb": "ˌʌpˈset, ʌpˈset, ˈʌpset",
+                "us": "ˌʌpˈset, ʌpˈset, ˈʌpset"
+            },
+            "mean": {
+                "vi": "làm đổ, đánh đổ, lật đổ; đánh ngã",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 99927,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64362,
+            "word": "victimised",
+            "pronounce": null,
+            "mean": {
+                "vi": "cảm thấy bạn là nạn nhân của ai hoặc cái gì đó",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64363,
+            "word": "worried",
+            "pronounce": {
+                "gb": "ˈwʌrid",
+                "us": "ˈwɜːrid"
+            },
+            "mean": {
+                "vi": "lo lắng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 103672,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64364,
+            "word": "bored",
+            "pronounce": {
+                "gb": "bɔːd",
+                "us": "bɔːrd"
+            },
+            "mean": {
+                "vi": "cảm thấy mệt mỏi và mất kiên nhẫn vì bạn đã mất hứng thú với ai đó / điều gì đó hoặc vì bạn không có gì để làm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 472091,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64365,
+            "word": "confused",
+            "pronounce": {
+                "gb": "kənˈfjuːzd",
+                "us": "kənˈfjuːzd"
+            },
+            "mean": {
+                "vi": "bối rối, lúng túng, ngượng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 16641,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64366,
+            "word": "depressed",
+            "pronounce": null,
+            "mean": {
+                "vi": "rất buồn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64367,
+            "word": "disappointed",
+            "pronounce": {
+                "gb": "ˌdɪsəˈpɔɪntɪd",
+                "us": "ˌdɪsəˈpɔɪntɪd"
+            },
+            "mean": {
+                "vi": "buồn bã vì điều gì đó bạn hy vọng đã không xảy ra hoặc tốt đẹp, thành công, v.v. như bạn mong đợi",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 472097,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64368,
+            "word": "emotional",
+            "pronounce": {
+                "gb": "ɪˈməʊʃənl",
+                "us": "ɪˈməʊʃənl"
+            },
+            "mean": {
+                "vi": "cảm động, xúc động, xúc cảm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 26129,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64369,
+            "word": "envious",
+            "pronounce": {
+                "gb": "ˈenviəs",
+                "us": "ˈenviəs"
+            },
+            "mean": {
+                "vi": "(envious of somebody / something) thèm muốn, ghen tị, đố kỵ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 27001,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64370,
+            "word": "embarrassed",
+            "pronounce": {
+                "gb": "ɪmˈbærəst",
+                "us": "ɪmˈbærəst"
+            },
+            "mean": {
+                "vi": "lúng túng, bối rối; ngượng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 25963,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64371,
+            "word": "frightened",
+            "pronounce": {
+                "gb": "ˈfraɪtnd",
+                "us": "ˈfraɪtnd"
+            },
+            "mean": {
+                "vi": "hoảng sợ, khiếp đảm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 33081,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64372,
+            "word": "frustrated",
+            "pronounce": {
+                "gb": "frʌˈstreɪtɪd",
+                "us": "ˈfrʌstreɪtɪd"
+            },
+            "mean": {
+                "vi": "nản lòng, nản chí",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 33307,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64373,
+            "word": "let down let",
+            "pronounce": null,
+            "mean": {
+                "vi": "thất vọng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64374,
+            "word": "nonplussed",
+            "pronounce": null,
+            "mean": {
+                "vi": "ngạc nhiên đến nỗi không biết phải làm gì",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64375,
+            "word": "furious",
+            "pronounce": {
+                "gb": "ˈfjʊəriəs",
+                "us": "ˈfjʊriəs"
+            },
+            "mean": {
+                "vi": "(furious with somebody / at something) giận dữ, điên tiết",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 33561,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64376,
+            "word": "hurt",
+            "pronounce": {
+                "gb": "hɜːt",
+                "us": "hɜːrt"
+            },
+            "mean": {
+                "vi": "làm bị thương, làm đau",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 40042,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64377,
+            "word": "irritated",
+            "pronounce": {
+                "gb": "ˈɪrɪteɪtɪd",
+                "us": "ˈɪrɪteɪtɪd"
+            },
+            "mean": {
+                "vi": "tức tối; cáu tiết",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 45099,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64378,
+            "word": "intrigued",
+            "pronounce": {
+                "gb": "ɪnˈtriːɡd",
+                "us": "ɪnˈtriːɡd"
+            },
+            "mean": {
+                "vi": "rất quan tâm đến điều gì đó / ai đó và muốn biết thêm về điều đó / họ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 472128,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64379,
+            "word": "jealous",
+            "pronounce": {
+                "gb": "ˈdʒeləs",
+                "us": "ˈdʒeləs"
+            },
+            "mean": {
+                "vi": "(jealous of somebody / something) ghen tị, ghen ghét, đố kỵ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 45574,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64380,
+            "word": "cheated",
+            "pronounce": null,
+            "mean": {
+                "vi": "bị lừa",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        },
+        {
+            "id": 64381,
+            "word": "jaded",
+            "pronounce": {
+                "gb": "ˈdʒeɪdɪd",
+                "us": "ˈdʒeɪdɪd"
+            },
+            "mean": {
+                "vi": "mệt mỏi, mệt rã rời, kiệt sức; phải làm việc quá sức",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 45439,
+                "en": ""
+            },
+            "category": "cam_xuc",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:03",
+            "updated_at": "2022-08-17 04:35:03"
+        }
+    ],
+    "first_page_url": "http://api.dunno.ai/api/notebooks/special/premium/cam_xuc/61?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://api.dunno.ai/api/notebooks/special/premium/cam_xuc/61?page=1",
+    "next_page_url": null,
+    "path": "http://api.dunno.ai/api/notebooks/special/premium/cam_xuc/61",
+    "per_page": "61",
+    "prev_page_url": null,
+    "to": 61,
+    "total": 61
+}

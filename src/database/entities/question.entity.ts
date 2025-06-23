@@ -15,7 +15,7 @@ export class Question {
     @PrimaryGeneratedColumn()
     id: number;
 
-    @Column({ name: 'audio', type: 'varchar', length: 255, nullable: true })
+    @Column({ name: 'audio', type: 'varchar', length: 100, nullable: true })
     audio: string;
 
     @Column({ name: 'text_read', type: 'text', nullable: true })
@@ -30,7 +30,7 @@ export class Question {
     @Column({ name: 'text_audio_trans', type: 'json', nullable: true })
     text_audio_trans: string;
 
-    @Column({ name: 'image', type: 'varchar', length: 255, nullable: true })
+    @Column({ name: 'image', type: 'varchar', length: 100, nullable: true })
     image: string;
 
     @Column({ name: 'title', type: 'text', nullable: true })

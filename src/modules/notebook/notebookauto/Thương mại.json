@@ -1,0 +1,1890 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 64638,
+            "word": "affiliate",
+            "pronounce": {
+                "gb": "əˈfɪlieɪt, əˈfɪliət",
+                "us": "əˈfɪlieɪt, əˈfɪliət"
+            },
+            "mean": {
+                "vi": "nhận làm chi nhánh, nhận làm hội viên",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 1704,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64639,
+            "word": "company",
+            "pronounce": {
+                "gb": "ˈkʌmpəni",
+                "us": "ˈkʌmpəni"
+            },
+            "mean": {
+                "vi": "sự cùng đi; sự cùng ở; sự có bầu có bạn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 16038,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64640,
+            "word": "corporation",
+            "pronounce": null,
+            "mean": {
+                "vi": "tập đoàn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64641,
+            "word": "enterprise",
+            "pronounce": {
+                "gb": "ˈentəpraɪz",
+                "us": "ˈentərpraɪz"
+            },
+            "mean": {
+                "vi": "công trình hoặc công việc kinh doanh (nhất là công trình khó khăn hoặc đòi hỏi phải dũng cảm); sự nghiệp",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 26835,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64642,
+            "word": "joint stock company (jsc)",
+            "pronounce": null,
+            "mean": {
+                "vi": "công ty cổ phần",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64643,
+            "word": "limited liability company (ltd)",
+            "pronounce": null,
+            "mean": {
+                "vi": "công ty trách nhiệm hữu hạn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64644,
+            "word": "private company",
+            "pronounce": {
+                "gb": "ˌpraɪvət ˈkʌmpəni",
+                "us": "ˌpraɪvət ˈkʌmpəni"
+            },
+            "mean": {
+                "vi": "công ty tư doanh",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 66752,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64645,
+            "word": "subsidiary",
+            "pronounce": {
+                "gb": "səbˈsɪdiəri",
+                "us": "səbˈsɪdieri"
+            },
+            "mean": {
+                "vi": "công ty mà hơn phân nửa vốn của nó thuộc quyền sở hữu của một công ty khác; công ty con",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 84215,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64646,
+            "word": "accounting department",
+            "pronounce": {
+                "gb": "əˈkaʊntɪŋ dɪˈpɑːtmənt",
+                "us": "əˈkaʊntɪŋ dɪˈpɑːrtmənt"
+            },
+            "mean": {
+                "vi": "phòng kế toán",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 106096,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64647,
+            "word": "administration department",
+            "pronounce": null,
+            "mean": {
+                "vi": "phòng hành chánh",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 108889,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64648,
+            "word": "agent",
+            "pronounce": {
+                "gb": "ˈeɪdʒənt",
+                "us": "ˈeɪdʒənt"
+            },
+            "mean": {
+                "vi": "người hoạt động cho một doanh nghiệp hoặc quản lý công việc của người khác trong một doanh nghiệp; đại lý",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 1881,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64649,
+            "word": "branch office",
+            "pronounce": {
+                "gb": "brɑːntʃ ˈɒfɪs",
+                "us": "bræntʃ ˈɑːfɪs"
+            },
+            "mean": {
+                "vi": "văn phòng chi nhánh phân cục",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 132132,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64650,
+            "word": "chief executive officer (ceo)",
+            "pronounce": null,
+            "mean": {
+                "vi": "tổng giám đốc",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 144574,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64651,
+            "word": "chief financial officer (cfo)",
+            "pronounce": null,
+            "mean": {
+                "vi": "giám đốc tài chính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 144578,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64652,
+            "word": "chief information officer (cio)",
+            "pronounce": null,
+            "mean": {
+                "vi": "giám đốc thông tin",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 144581,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64653,
+            "word": "department",
+            "pronounce": {
+                "gb": "dɪˈpɑːtmənt",
+                "us": "dɪˈpɑːrtmənt"
+            },
+            "mean": {
+                "vi": "khu hành chính (ở Pháp)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 21277,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64654,
+            "word": "deputy of department",
+            "pronounce": null,
+            "mean": {
+                "vi": "phó trưởng phòng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64655,
+            "word": "director",
+            "pronounce": {
+                "gb": "dəˈrektə(r), daɪˈrektə(r)",
+                "us": "dəˈrektər, daɪˈrektər"
+            },
+            "mean": {
+                "vi": "người quản lý (nhất là với tư cách một thành viên trong ban giám đốc) các công việc của một doanh nghiệp; giám đốc",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 22538,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64656,
+            "word": "employee",
+            "pronounce": {
+                "gb": "ɪmˈplɔɪiː",
+                "us": "ɪmˈplɔɪiː"
+            },
+            "mean": {
+                "vi": "người lao động, người làm công",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 26183,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64657,
+            "word": "employer",
+            "pronounce": {
+                "gb": "ɪmˈplɔɪə(r)",
+                "us": "ɪmˈplɔɪər"
+            },
+            "mean": {
+                "vi": "chủ, người sử dụng lao động",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 26184,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64658,
+            "word": "founder",
+            "pronounce": {
+                "gb": "ˈfaʊndə(r)",
+                "us": "ˈfaʊndər"
+            },
+            "mean": {
+                "vi": "thợ đúc (gang...)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 32655,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64659,
+            "word": "general director",
+            "pronounce": null,
+            "mean": {
+                "vi": "tổng giám đốc",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64660,
+            "word": "head of department",
+            "pronounce": {
+                "gb": "hed əv dɪˈpɑːtmənt",
+                "us": "hed əv dɪˈpɑːrtmənt"
+            },
+            "mean": {
+                "vi": "trưởng gian hàng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 217986,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64661,
+            "word": "headquarters",
+            "pronounce": {
+                "gb": "ˌhedˈkwɔːtəz",
+                "us": "ˈhedkwɔːrtərz"
+            },
+            "mean": {
+                "vi": "(quân sự) địa điểm từ đó kiểm soát hoạt động của một tổ chức; sở chỉ huy; cơ quan đầu não",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 37891,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64662,
+            "word": "human resources department (hr)",
+            "pronounce": null,
+            "mean": {
+                "vi": "phòng nhân sự",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64663,
+            "word": "manager",
+            "pronounce": null,
+            "mean": {
+                "vi": "quản lý",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64664,
+            "word": "marketing department",
+            "pronounce": {
+                "gb": "ˈmɑːkɪtɪŋ dɪˈpɑːtmənt",
+                "us": "ˈmɑːrkɪtɪŋ dɪˈpɑːrtmənt"
+            },
+            "mean": {
+                "vi": "bộ phận tiếp thị",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 255098,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64665,
+            "word": "outlet",
+            "pronounce": {
+                "gb": "ˈaʊtlet",
+                "us": "ˈaʊtlet"
+            },
+            "mean": {
+                "vi": "chỗ thoát ra, lối ra (nước, hơi..)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 58382,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64666,
+            "word": "regional office",
+            "pronounce": {
+                "gb": "ˈriːdʒənl ˈɒfɪs",
+                "us": "ˈriːdʒənl ˈɑːfɪs"
+            },
+            "mean": {
+                "vi": "chi nhánh khu vực (của công ty)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 312127,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64667,
+            "word": "representative office",
+            "pronounce": {
+                "gb": "ˌreprɪˈzentətɪv ˈɒfɪs",
+                "us": "ˌreprɪˈzentətɪv ˈɑːfɪs"
+            },
+            "mean": {
+                "vi": "hạng đại diện",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 314505,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64668,
+            "word": "representative",
+            "pronounce": {
+                "gb": "ˌreprɪˈzentətɪv",
+                "us": "ˌreprɪˈzentətɪv"
+            },
+            "mean": {
+                "vi": "(representative of something / somebody) đại diện cho một giai cấp hoặc một nhóm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 71509,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64669,
+            "word": "sales department",
+            "pronounce": {
+                "gb": "ˈseɪlz dɪˈpɑːtmənt",
+                "us": "ˈseɪlz dɪˈpɑːrtmənt"
+            },
+            "mean": {
+                "vi": "phòng tiêu thụ sản phẩm; phòng kinh doanh",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 73893,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64670,
+            "word": "shipping department",
+            "pronounce": {
+                "gb": "ˈʃɪpɪŋ dɪˈpɑːtmənt",
+                "us": "ˈʃɪpɪŋ dɪˈpɑːrtmənt"
+            },
+            "mean": {
+                "vi": "bộ phận gửi hàng (bằng đường biển)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 332009,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64671,
+            "word": "supervisor",
+            "pronounce": {
+                "gb": "ˈsuːpəvaɪzə(r)",
+                "us": "ˈsuːpərvaɪzər"
+            },
+            "mean": {
+                "vi": "người giám sát; người giám thị",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 84982,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64672,
+            "word": "the board of directors",
+            "pronounce": null,
+            "mean": {
+                "vi": "Hội đồng quản trị",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64673,
+            "word": "trainee",
+            "pronounce": {
+                "gb": "ˌtreɪˈniː",
+                "us": "ˌtreɪˈniː"
+            },
+            "mean": {
+                "vi": "võ sĩ trẻ đang tập dượt để lên đài",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 93972,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64674,
+            "word": "trainer",
+            "pronounce": {
+                "gb": "ˈtreɪnə(r)",
+                "us": "ˈtreɪnər"
+            },
+            "mean": {
+                "vi": "người dạy (súc vật)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 93974,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64675,
+            "word": "records",
+            "pronounce": {
+                "gb": "ˈrekɔːdz",
+                "us": "ˈrekərdz"
+            },
+            "mean": {
+                "vi": "tài liệu hồ sơ, công văn, giấy tờ lưu trữ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 309965,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64676,
+            "word": "administrative cost",
+            "pronounce": null,
+            "mean": {
+                "vi": "Chi phí quản lý",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64677,
+            "word": "joint venture",
+            "pronounce": {
+                "gb": "ˌdʒɔɪnt ˈventʃə(r)",
+                "us": "ˌdʒɔɪnt ˈventʃər"
+            },
+            "mean": {
+                "vi": "sự liên kết với nhau để kinh doanh; sự liên doanh",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 45830,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64678,
+            "word": "foreign currency",
+            "pronounce": {
+                "gb": "ˈfɒrən ˈkʌrənsi",
+                "us": "ˈfɔːrən ˈkɜːrənsi"
+            },
+            "mean": {
+                "vi": "ngoại tệ, ngoại hối",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 204202,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64679,
+            "word": "depreciation",
+            "pronounce": {
+                "gb": "dɪˌpriːʃiˈeɪʃn",
+                "us": "dɪˌpriːʃiˈeɪʃn"
+            },
+            "mean": {
+                "vi": "sự sụt giá; sự giảm giá",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 21367,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64680,
+            "word": "surplus",
+            "pronounce": {
+                "gb": "ˈsɜːpləs",
+                "us": "ˈsɜːrplʌs"
+            },
+            "mean": {
+                "vi": "số dư, số thừa; số thặng dư",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 85169,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64681,
+            "word": "share",
+            "pronounce": {
+                "gb": "ʃeə(r)",
+                "us": "ʃer"
+            },
+            "mean": {
+                "vi": "(to share something out among / between somebody) chia một phần đều nhau của cái gì cho những người khác",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 77187,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64682,
+            "word": "revenue",
+            "pronounce": {
+                "gb": "ˈrevənjuː",
+                "us": "ˈrevənuː"
+            },
+            "mean": {
+                "vi": "thu nhập (nhất là tổng số thu nhập hàng năm của Nha nước từ thuế)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 72130,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64683,
+            "word": "customs barrier",
+            "pronounce": {
+                "gb": "ˈkʌstəmz ˈbæriə(r)",
+                "us": "ˈkʌstəmz ˈbæriər"
+            },
+            "mean": {
+                "vi": "hàng rào thuế quan",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 166175,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64684,
+            "word": "billing cost",
+            "pronounce": null,
+            "mean": {
+                "vi": "Chi phí hoá đơn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64685,
+            "word": "earnest money",
+            "pronounce": {
+                "gb": "ˈɜːnɪst ˈmʌni",
+                "us": "ˈɜːrnɪst ˈmʌni"
+            },
+            "mean": {
+                "vi": "tiền đặt cọc",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 24962,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64686,
+            "word": "treasurer",
+            "pronounce": {
+                "gb": "ˈtreʒərə(r)",
+                "us": "ˈtreʒərər"
+            },
+            "mean": {
+                "vi": "(viết tắt) treas người thủ quỹ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 94343,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64687,
+            "word": "rate of economic growth",
+            "pronounce": null,
+            "mean": {
+                "vi": "tỷ lệ, mức tăng trưởng kinh tế",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 307728,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64688,
+            "word": "joint stock company",
+            "pronounce": {
+                "gb": "ˌdʒɔɪnt stɒk ˈkʌmpəni",
+                "us": "ˌdʒɔɪnt stɑːk ˈkʌmpəni"
+            },
+            "mean": {
+                "vi": "công ty góp cổ phần",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 238016,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64689,
+            "word": "mode of payment",
+            "pronounce": {
+                "gb": "məʊd əv ˈpeɪmənt",
+                "us": "məʊd əv ˈpeɪmənt"
+            },
+            "mean": {
+                "vi": "phương thức thanh toán",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 397502,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64690,
+            "word": "vat identification number",
+            "pronounce": null,
+            "mean": {
+                "vi": "mã số thuế VAT",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64691,
+            "word": "inflation",
+            "pronounce": {
+                "gb": "ɪnˈfleɪʃn",
+                "us": "ɪnˈfleɪʃn"
+            },
+            "mean": {
+                "vi": "sự bơm phồng, sự thổi phồng; tình trạng được bơm phồng, tình trạng được thổi phồng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 43113,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64692,
+            "word": "price_ boom",
+            "pronounce": null,
+            "mean": {
+                "vi": "Việc giá cả tăng vọt",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64693,
+            "word": "turnover",
+            "pronounce": {
+                "gb": "ˈtɜːnəʊvə(r)",
+                "us": "ˈtɜːrnəʊvər"
+            },
+            "mean": {
+                "vi": "(số lượng công việc kinh doanh của một công ty đã thực hiện trong một khoảng thời gian nào đó); doanh số; doanh thu",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 95353,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64694,
+            "word": "capital accumulation",
+            "pronounce": {
+                "gb": "kæpɪtl əˌkjuːmjəˈleɪʃn",
+                "us": "kæpɪtl əˌkjuːmjəˈleɪʃn"
+            },
+            "mean": {
+                "vi": "hình thành vốn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 138265,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64695,
+            "word": "the openness of the economy",
+            "pronounce": null,
+            "mean": {
+                "vi": "Sự mở cửa của nền kinh tế",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64696,
+            "word": "account holder",
+            "pronounce": {
+                "gb": "əˈkaʊnt ˈhəʊldə(r)",
+                "us": "əˈkaʊnt ˈhəʊldər"
+            },
+            "mean": {
+                "vi": "chủ tài khoản",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 105989,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64697,
+            "word": "unregulated and competitive market",
+            "pronounce": null,
+            "mean": {
+                "vi": "Thị trường cạnh tranh không bị điều tiết",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64698,
+            "word": "financial policies",
+            "pronounce": null,
+            "mean": {
+                "vi": "Chính sách tài chính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64699,
+            "word": "average annual growth",
+            "pronounce": null,
+            "mean": {
+                "vi": "Tốc độ tăng trưởng bình quân hàng năm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64700,
+            "word": "circulation and distribution of commodity",
+            "pronounce": null,
+            "mean": {
+                "vi": "Lưu thông phân phối hàng hoá",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64701,
+            "word": "confiscation",
+            "pronounce": {
+                "gb": "ˌkɒnfɪˈskeɪʃn",
+                "us": "ˌkɑːnfɪˈskeɪʃn"
+            },
+            "mean": {
+                "vi": "sự tịch thu, sự sung công",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 16592,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64702,
+            "word": "holding company",
+            "pronounce": {
+                "gb": "ˈhəʊldɪŋ kʌmpəni",
+                "us": "ˈhəʊldɪŋ kʌmpəni"
+            },
+            "mean": {
+                "vi": "công ty được lập ra để nắm giữ cổ phần của các công ty khác do nó điều khiển; công ty cổ phần mẹ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 39109,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64703,
+            "word": "partial cybermarketing",
+            "pronounce": null,
+            "mean": {
+                "vi": "Tiếp thị ảo một phần",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64704,
+            "word": "enterprise resource planning",
+            "pronounce": null,
+            "mean": {
+                "vi": "Kế hoạch hóa nguồn lực doanh nghiệp",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64705,
+            "word": "microcommerce",
+            "pronounce": null,
+            "mean": {
+                "vi": "Vi thương mại",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64706,
+            "word": "acquirer",
+            "pronounce": {
+                "gb": "əkwaɪərə",
+                "us": "əkwaɪərrər"
+            },
+            "mean": {
+                "vi": "được, giành được, thu được, đạt được, kiếm được",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 1059,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64707,
+            "word": "point of sale",
+            "pronounce": {
+                "gb": "ˌpɔɪnt əv ˈseɪl",
+                "us": "ˌpɔɪnt əv ˈseɪl"
+            },
+            "mean": {
+                "vi": "điểm bán",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 292885,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64708,
+            "word": "exchange",
+            "pronounce": {
+                "gb": "ɪksˈtʃeɪndʒ",
+                "us": "ɪksˈtʃeɪndʒ"
+            },
+            "mean": {
+                "vi": "sự đổi, sự đổi chác, sự trao đổi; vật trao đổi",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 28341,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64709,
+            "word": "electronic broker (e-broker)",
+            "pronounce": null,
+            "mean": {
+                "vi": "Nhà môi giới điện tử",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64710,
+            "word": "pure cybermarketing",
+            "pronounce": null,
+            "mean": {
+                "vi": "Tiếp thị ảo thuần túy",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64711,
+            "word": "merchant account",
+            "pronounce": null,
+            "mean": {
+                "vi": "Tài khoản thanh toán của doanh nghiệp",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64712,
+            "word": "electronic distributor",
+            "pronounce": null,
+            "mean": {
+                "vi": "Nhà phân phối điện tử",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64713,
+            "word": "electronic bill presentment",
+            "pronounce": null,
+            "mean": {
+                "vi": "Gửi hóa đơn điện tử",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64714,
+            "word": "encryption",
+            "pronounce": {
+                "gb": "ɪnˈkrɪpʃn",
+                "us": "ɪnˈkrɪpʃn"
+            },
+            "mean": {
+                "vi": "mật ký",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 187753,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64715,
+            "word": "ebook",
+            "pronounce": null,
+            "mean": {
+                "vi": "Sách điện tử",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64716,
+            "word": "gateway",
+            "pronounce": {
+                "gb": "ˈɡeɪtweɪ",
+                "us": "ˈɡeɪtweɪ"
+            },
+            "mean": {
+                "vi": "cổng ra vào",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 34226,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64717,
+            "word": "buck mail",
+            "pronounce": null,
+            "mean": {
+                "vi": "Gửi thư điện tử số lượng lớn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64718,
+            "word": "application service provider",
+            "pronounce": null,
+            "mean": {
+                "vi": "Nhà cung cấp dịch vụ ứng dụng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64719,
+            "word": "electronic data interchange",
+            "pronounce": null,
+            "mean": {
+                "vi": "sự chao đổi với dữ liệu (với nhau) bằng máy điện tử",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 186138,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64720,
+            "word": "e-enterprise",
+            "pronounce": null,
+            "mean": {
+                "vi": "Doanh nghiệp điện tử",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64721,
+            "word": "paid listing",
+            "pronounce": null,
+            "mean": {
+                "vi": "Niêm yết phải trả tiền",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64722,
+            "word": "back-end-system",
+            "pronounce": null,
+            "mean": {
+                "vi": "Hệ thống tuyến sau",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64723,
+            "word": "e- business",
+            "pronounce": null,
+            "mean": {
+                "vi": "Kinh doanh điện tử",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64724,
+            "word": "auxiliary analogue control channel (aacc)",
+            "pronounce": null,
+            "mean": {
+                "vi": "Kênh điều khiển analog phụ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64725,
+            "word": "auction online",
+            "pronounce": null,
+            "mean": {
+                "vi": "Đấu giá trên mạng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64726,
+            "word": "offline media",
+            "pronounce": null,
+            "mean": {
+                "vi": "Phương tiện truyền thông ngoại tuyến",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64727,
+            "word": "look-to-book ratio",
+            "pronounce": null,
+            "mean": {
+                "vi": "Tỉ lệ xem/đặt vé",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64728,
+            "word": "authentication",
+            "pronounce": {
+                "gb": "ɔːˌθentɪˈkeɪʃn",
+                "us": "ɔːˌθentɪˈkeɪʃn"
+            },
+            "mean": {
+                "vi": "sự xác nhận là đúng, sự chứng minh là xác thực",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 6296,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64729,
+            "word": "autoresponder",
+            "pronounce": null,
+            "mean": {
+                "vi": "Hệ thống tự động trả lời",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64730,
+            "word": "american standard code for information interchange (ascii)",
+            "pronounce": null,
+            "mean": {
+                "vi": "Mã tiêu chuẩn Mỹ dùng để trao đổi thông tin",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 113058,
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64731,
+            "word": "affiliate marketing",
+            "pronounce": null,
+            "mean": {
+                "vi": "Tiếp thị qua đại lý",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64732,
+            "word": "processing service provider",
+            "pronounce": null,
+            "mean": {
+                "vi": "Nhà cung cấp dịch vụ xử lý thanh toán qua mạng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        },
+        {
+            "id": 64733,
+            "word": "payment gateway",
+            "pronounce": null,
+            "mean": {
+                "vi": "Cổng thanh toán",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "thuong_mai",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:07",
+            "updated_at": "2022-08-17 04:35:07"
+        }
+    ],
+    "first_page_url": "http://api.dunno.ai/api/notebooks/special/premium/thuong_mai/100?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://api.dunno.ai/api/notebooks/special/premium/thuong_mai/100?page=1",
+    "next_page_url": null,
+    "path": "http://api.dunno.ai/api/notebooks/special/premium/thuong_mai/100",
+    "per_page": "100",
+    "prev_page_url": null,
+    "to": 96,
+    "total": 96
+}

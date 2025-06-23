@@ -1,0 +1,849 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 64595,
+            "word": "contamination",
+            "pronounce": null,
+            "mean": {
+                "vi": "sự làm nhiễm độc",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64596,
+            "word": "alternatives",
+            "pronounce": null,
+            "mean": {
+                "vi": "giải pháp thay thế",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64597,
+            "word": "government’s regulation",
+            "pronounce": null,
+            "mean": {
+                "vi": "sự điều chỉnh/luật pháp của chính phủ",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64598,
+            "word": "solar panel",
+            "pronounce": {
+                "gb": "ˌsəʊlə ˈpænl",
+                "us": "ˌsəʊlər ˈpænl"
+            },
+            "mean": {
+                "vi": "tấm bảng chắn ánh mặt trời nhiệt năng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 339115,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64599,
+            "word": "environmental pollution",
+            "pronounce": {
+                "gb": "ɪnˌvaɪrənˈmentl pəˈluːʃn",
+                "us": "ɪnˌvaɪrənˈmentl pəˈluːʃn"
+            },
+            "mean": {
+                "vi": "ô nhiễm môi trường",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 189374,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64600,
+            "word": "greenhouse",
+            "pronounce": {
+                "gb": "ˈɡriːnhaʊs",
+                "us": "ˈɡriːnhaʊs"
+            },
+            "mean": {
+                "vi": "nhà có cạnh và mái làm bằng kính để trồng những loại rau quả đặc biệt (không chịu ảnh hưởng của thời tiết); nhà kính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 36196,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64601,
+            "word": "greenhouse gas emissions",
+            "pronounce": null,
+            "mean": {
+                "vi": "khí thải nhà kính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64602,
+            "word": "the soil",
+            "pronounce": null,
+            "mean": {
+                "vi": "đất",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64603,
+            "word": "activated carbon",
+            "pronounce": {
+                "base": "'æktiveitid 'kɑːbən"
+            },
+            "mean": {
+                "vi": "than hoạt tính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 107310,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64604,
+            "word": "activated sludge",
+            "pronounce": {
+                "base": "'æktiveitid 'slʌdʒ"
+            },
+            "mean": {
+                "vi": "cặn có hoạt tính",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 107326,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64605,
+            "word": "ground water",
+            "pronounce": {
+                "gb": "ɡraʊnd ˈwɔːtə(r)",
+                "us": "ɡraʊnd ˈwɔːtər"
+            },
+            "mean": {
+                "vi": "nước ngầm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 215233,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64606,
+            "word": "the ozone layer",
+            "pronounce": null,
+            "mean": {
+                "vi": "tầng ozon",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64607,
+            "word": "pollutant",
+            "pronounce": {
+                "gb": "pəˈluːtənt",
+                "us": "pəˈluːtənt"
+            },
+            "mean": {
+                "vi": "chất gây ô nhiễm (do xe cộ, động cơ.. thải ra)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 64693,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64608,
+            "word": "preserve biodiversity",
+            "pronounce": null,
+            "mean": {
+                "vi": "bảo tồn sự đa dạng sinh học",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64609,
+            "word": "soil erosion",
+            "pronounce": {
+                "gb": "sɔɪl ɪˈrəʊʒn",
+                "us": "sɔɪl ɪˈrəʊʒn"
+            },
+            "mean": {
+                "vi": "sự xói đất, sự mòn đất",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 338893,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64610,
+            "word": "acid rain",
+            "pronounce": {
+                "gb": "ˌæsɪd ˈreɪn",
+                "us": "ˌæsɪd ˈreɪn"
+            },
+            "mean": {
+                "vi": "nước mưa cay gắt do hòa lẫn các khí thải độc hại",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 989,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64611,
+            "word": "acid deposition",
+            "pronounce": null,
+            "mean": {
+                "vi": "mưa axit",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64612,
+            "word": "culprit (of)",
+            "pronounce": null,
+            "mean": {
+                "vi": "thủ phạm (của)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64613,
+            "word": "absorption",
+            "pronounce": {
+                "gb": "əbˈzɔːpʃn",
+                "us": "əbˈzɔːrpʃn"
+            },
+            "mean": {
+                "vi": "sự hút, sự hút thu",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 676,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64614,
+            "word": "crops",
+            "pronounce": {
+                "gb": "krɒps",
+                "us": "krɑːps"
+            },
+            "mean": {
+                "vi": "đầu thừa, đầu mẩu",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 408774,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64615,
+            "word": "natural resources",
+            "pronounce": {
+                "gb": "ˈnætʃrəl rɪˈsɔːsɪz",
+                "us": "ˈnætʃrəl rɪˈsɔːrsɪz"
+            },
+            "mean": {
+                "vi": "tài nguyên thiên nhiên",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 406526,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64616,
+            "word": "carbon dioxin",
+            "pronounce": null,
+            "mean": {
+                "vi": "CO2",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64617,
+            "word": "ecosystem",
+            "pronounce": {
+                "gb": "ˈiːkəʊsɪstəm",
+                "us": "ˈiːkəʊsɪstəm"
+            },
+            "mean": {
+                "vi": "đơn vị sinh thái bao gồm một nhóm thực vật và sinh vật sống tác động qua lại lẫn nhau cùng với môi trường xung quanh; hệ sinh thái",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 25192,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64618,
+            "word": "a marine ecosystem",
+            "pronounce": null,
+            "mean": {
+                "vi": "hệ sinh thái trong nước",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64619,
+            "word": "adsorption",
+            "pronounce": {
+                "base": "æd'sɔːp∫n"
+            },
+            "mean": {
+                "vi": "(hoá học) sự hút bám",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 1458,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64620,
+            "word": "deforestation",
+            "pronounce": {
+                "gb": "ˌdiːˌfɒrɪˈsteɪʃn",
+                "us": "ˌdiːˌfɔːrɪˈsteɪʃn"
+            },
+            "mean": {
+                "vi": "sự phá rừng; sự phát quang",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 20783,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64621,
+            "word": "aerobic suspended-growth treatment process",
+            "pronounce": null,
+            "mean": {
+                "vi": "Quá trình xử lý sinh học hiếu khí lơ lửng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64622,
+            "word": "aerobic attached-growth treatment process",
+            "pronounce": null,
+            "mean": {
+                "vi": "Quá trình xử lý sinh học hiếu khí dính bám",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64623,
+            "word": "polluter",
+            "pronounce": {
+                "gb": "pəˈluːtə(r)",
+                "us": "pəˈluːtər"
+            },
+            "mean": {
+                "vi": "làm ô uế, làm mất thiêng liêng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 64695,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64624,
+            "word": "pollution",
+            "pronounce": {
+                "gb": "pəˈluːʃn",
+                "us": "pəˈluːʃn"
+            },
+            "mean": {
+                "vi": "sự làm ô uế, sự làm mất thiêng liêng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 64696,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64625,
+            "word": "pollutive",
+            "pronounce": null,
+            "mean": {
+                "vi": "bị ô nhiễm",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64626,
+            "word": "excessive",
+            "pronounce": {
+                "gb": "ɪkˈsesɪv",
+                "us": "ɪkˈsesɪv"
+            },
+            "mean": {
+                "vi": "quá mức, thừa",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 28338,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64627,
+            "word": "catalyze (for)",
+            "pronounce": null,
+            "mean": {
+                "vi": "xúc tác (cho)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64628,
+            "word": "exploit",
+            "pronounce": null,
+            "mean": {
+                "vi": "khai thác",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64629,
+            "word": "pollute",
+            "pronounce": {
+                "gb": "pəˈluːt",
+                "us": "pəˈluːt"
+            },
+            "mean": {
+                "vi": "làm ô uế, làm mất thiêng liêng",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 64694,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64630,
+            "word": "conserve",
+            "pronounce": null,
+            "mean": {
+                "vi": "giữ gìn",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64631,
+            "word": "over-abuse",
+            "pronounce": null,
+            "mean": {
+                "vi": "lạm dụng quá mức",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64632,
+            "word": "raise awareness of environmental issues",
+            "pronounce": null,
+            "mean": {
+                "vi": "nâng cao nhận thức về các vấn đề môi trường",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64633,
+            "word": "reduce (the size of) your carbon footprint",
+            "pronounce": null,
+            "mean": {
+                "vi": "làm giảm (kích cỡ của) dấu chân carbon của bạn.",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64634,
+            "word": "a bottle bank",
+            "pronounce": null,
+            "mean": {
+                "vi": "một thùng lớn mà con người chứa những chai không và những vật thủy tinh khác vào để chất thủy tinh có thể được dùng lần nữa",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64635,
+            "word": "organic",
+            "pronounce": null,
+            "mean": {
+                "vi": "không dùng những chất hóa học nhân tạo dưới việc trồng trọt cây hoặc nuôi thú vật để lấy thịt và những sản phẩm khác",
+                "en": ""
+            },
+            "word_id": {
+                "vi": "",
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64636,
+            "word": "recycle",
+            "pronounce": {
+                "gb": "ˌriːˈsaɪkl",
+                "us": "ˌriːˈsaɪkl"
+            },
+            "mean": {
+                "vi": "tái sinh (vật liệu đã dùng để dùng lại)",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 70592,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        },
+        {
+            "id": 64637,
+            "word": "wind farm",
+            "pronounce": {
+                "gb": "ˈwɪnd fɑːm",
+                "us": "ˈwɪnd fɑːrm"
+            },
+            "mean": {
+                "vi": "một khu vực đất có rất nhiều cối xay gió hoặc tuabin gió để sản xuất điện",
+                "en": ""
+            },
+            "word_id": {
+                "vi": 470756,
+                "en": ""
+            },
+            "category": "chuyen_nganh_moi_truong",
+            "type": "premium",
+            "level": null,
+            "created_at": "2022-08-17 04:35:06",
+            "updated_at": "2022-08-17 04:35:06"
+        }
+    ],
+    "first_page_url": "http://api.dunno.ai/api/notebooks/special/premium/chuyen_nganh_moi_truong/100?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://api.dunno.ai/api/notebooks/special/premium/chuyen_nganh_moi_truong/100?page=1",
+    "next_page_url": null,
+    "path": "http://api.dunno.ai/api/notebooks/special/premium/chuyen_nganh_moi_truong/100",
+    "per_page": "100",
+    "prev_page_url": null,
+    "to": 43,
+    "total": 43
+}

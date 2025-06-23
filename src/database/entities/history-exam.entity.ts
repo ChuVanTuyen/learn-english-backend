@@ -22,10 +22,13 @@ export class HistoryExam {
   time: number;
 
   @Column({ type: 'int' })
-  correct_listent: number;
+  correct_listen: number;
 
   @Column({ type: 'int' })
   correct_read: number;
+
+  @Column({type: 'int'})
+  score: number;
 
   @Column()
   exam_id: number;
