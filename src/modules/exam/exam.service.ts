@@ -134,7 +134,6 @@ export class ExamService {
 
     async getExamsAndHistoryByUserId(user_id?: number) {
         const exams = await this.examRepo.find();
-        console.log(user_id);
         if(user_id) {
             const historyExams = await this.historyExamRepo.find({
                 where: { user_id },

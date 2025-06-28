@@ -10,11 +10,11 @@ export class DictionaryController {
     ) { }
 
 
-    // @Public()
-    // @Get('insert')
-    // async insertWors() {
-    //     return this.dictionaryService.importWordsFromJsonFolder('D:/datn/learn-english-data/output');
-    // }
+    @Public()
+    @Get('insert')
+    async insertWors() {
+        return this.dictionaryService.importWordsFromJsonFolder('D:/datn/learn-english-data/output2');
+    }
 
     @Public()
     @Get('search')

@@ -16,10 +16,10 @@ export class SummaryPractice {
   id: number;
 
   @Column({ type: 'json'})
-  done_question_ids: number[];
+  done_questions: ObjectKey<number[]>;
 
   @Column({ type: 'json'})
-  false_question_ids: ObjectKey<number[]>;
+  false_questions: ObjectKey<number[]>;
 
   @Column()
   user_id: number;

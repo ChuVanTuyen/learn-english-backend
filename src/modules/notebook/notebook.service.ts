@@ -11,7 +11,7 @@ import * as fs from 'fs/promises';
 interface EmotionWord {
     id: number;
     word: string;
-    pronounce: {us: string, gb: string};
+    pronounce: { us: string, gb: string };
     mean: { vi: string; en: string };
     word_id: { vi: string; en: string };
     category: string;
@@ -272,6 +272,86 @@ export class NotebookService {
                 throw new NotFoundException(`Không tìm thấy thư mục ${folderPath}`);
             }
             throw new InternalServerErrorException('Không thể tạo notebooks từ thư mục');
+        }
+    }
+
+    async deleteNotebook(id: number) {
+        try {
+            const notebook = await this.notebookRepo.findOne({ where: { id } });
+            if (!notebook) {
+                throw new NotFoundException(`Notebook with ID ${id} not found`);
+            }
+            await this.notebookRepo.remove(notebook);
+            return notebook;
+        } catch (error) {
+            throw error;
+        }
+
+    }
+
+    async getNotebookWithWords(notebookId: number) {
+        try {
+            const notebook = await this.notebookRepo.findOne({
+                where: { id: notebookId },
+            });
+
+            if (!notebook) {
+                throw new NotFoundException(`Notebook with ID ${notebookId} not found`);
+            }
+
+            const words = await this.notebookWordRepo.find({
+                where: { notebook_id: notebookId },
+                order: { created_at: 'DESC' }, // hoặc 'ASC' nếu muốn sắp xếp ngược lại
+            });
+
+            return {
+                ...notebook,
+                words,
+            };
+        } catch (error) {
+            console.error('Error fetching notebook with words:', error);
+            throw new InternalServerErrorException('Could not retrieve notebook and words');
+        }
+    }
+
+    async deleteWord(id: number) {
+        const result = await this.notebookWordRepo.delete(id);
+        if (result.affected === 0) {
+            throw new NotFoundException(`NotebookWord with ID ${id} not found`);
+        }
+
+        return result;
+    }
+
+    async updateWordInNotebook(
+        user_id: number,
+        wordId: number,
+        updateWordDto: Partial<CreateNotebookWordDto>
+    ): Promise<NotebookWord> {
+        try {
+            // Tìm từ vựng và include cả notebook để kiểm tra quyền
+            const word = await this.notebookWordRepo.findOne({
+                where: { id: wordId },
+                relations: ['notebook']
+            });
+
+            if (!word) {
+                throw new NotFoundException(`Không tìm thấy từ vựng với ID ${wordId}`);
+            }
+
+            // Kiểm tra notebook có thuộc về user không
+            if (word.notebook.user_id !== user_id) {
+                throw new NotFoundException(`Bạn không có quyền sửa từ này`);
+            }
+
+            // Cập nhật các field mới
+            const updatedWord = this.notebookWordRepo.merge(word, updateWordDto);
+            return await this.notebookWordRepo.save(updatedWord);
+        } catch (error) {
+            if (error instanceof NotFoundException) {
+                throw error;
+            }
+            throw new InternalServerErrorException('Lỗi khi cập nhật từ vựng');
         }
     }
 }

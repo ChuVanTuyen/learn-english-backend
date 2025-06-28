@@ -2,12 +2,11 @@ import { IsArray, IsInt, IsNumber, IsObject, IsOptional } from "class-validator"
 import { ObjectKey } from "src/interfaces/common";
 
 export class SumaryPracticeDto {
-  @IsArray()
-  @IsNumber({}, { each: true })
+  @IsObject()
   @IsOptional()
-  done_question_ids?: number[];
+  done_questions?: ObjectKey<number[]>;
 
   @IsObject()
   @IsOptional()
-  false_question_ids?: ObjectKey<number[]>;
+  false_questions?: ObjectKey<number[]>;
 }

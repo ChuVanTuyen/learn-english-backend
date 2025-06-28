@@ -1,4 +1,4 @@
-import { Body, Controller, Get, Param, ParseIntPipe, Patch, Post, Put, Request } from '@nestjs/common';
+import { Body, Controller, Delete, Get, Param, ParseIntPipe, Patch, Post, Put, Request } from '@nestjs/common';
 import { CreateNotebookDto, UpdateNotebookDto } from './dto/create-notebook.dto';
 import { NotebookService } from './notebook.service';
 import { CreateNotebookWordDto, UpdateNotebookWordDto } from './dto/create-notebook-word.dto';
@@ -33,6 +33,13 @@ export class NotebookController {
         return this.notebookService.updateNotebook(updateNote);
     }
 
+    @Delete(':id')
+    async deleteNotebook(
+        @Param('id', ParseIntPipe) id: number
+    ) {
+        return this.notebookService.deleteNotebook(id);
+    }
+
     @Post(':notebookId/add-word')
     async addWordToNotebook(
         @Request() req,
@@ -40,6 +47,15 @@ export class NotebookController {
         @Body() createNotebookWordDto: CreateNotebookWordDto,
     ) {
         return this.notebookService.addWordToNotebook(req.user.userId, createNotebookWordDto, notebookId);
+    }
+
+    @Post('edit-word/:idWord')
+    async editWordNotebook(
+        @Request() req,
+        @Param('idWord', ParseIntPipe) idWord: number,
+        @Body() updateNotebookWordDto: Partial<CreateNotebookWordDto>,
+    ) {
+        return this.notebookService.updateWordInNotebook(req.user.userId, idWord, updateNotebookWordDto);
     }
 
     @Patch(':notebookId/update-word/:wordId')
@@ -68,9 +84,31 @@ export class NotebookController {
         return this.notebookService.getUserNotebooks(2);
     }
 
-    @Public()
-    @Get('insert-notebook-auto')
-    async createNotebookAuto() {
-        return this.notebookService.createNotebooksFromFolder();
+    @Get('user')
+    async getNotebookUser(
+        @Request() req
+    ) {
+        return this.notebookService.getUserNotebooks(req.user.userId);
     }
+
+    @Get(':id')
+    async getDetailNotebook(
+        @Param('id', ParseIntPipe) id: number
+    ) {
+        return this.notebookService.getNotebookWithWords(id);
+    }
+
+    @Delete('word/:id')
+    async deleteWord(
+        @Request() req,
+        @Param('id', ParseIntPipe) id: number
+    ) {
+        return this.notebookService.deleteWord(id);
+    }
+
+    // @Public()
+    // @Get('insert-notebook-auto')
+    // async createNotebookAuto() {
+    //     return this.notebookService.createNotebooksFromFolder();
+    // }
 }

@@ -24,7 +24,7 @@ export class AuthService {
             if (existingUser) {
                 throw new ConflictException('Email already exists');
             }
-            const newUser = await this.userService.create(email, password, name);
+            const newUser = await this.userService.create(email, password, name ? name : email.split('@')[0]);
             return {
                 id: newUser.id,
                 name: newUser.name,
@@ -51,6 +51,7 @@ export class AuthService {
         const payload = { email: user.email, sub: user.id };
         const accessToken = this.jwtService.sign(payload);
         return { 
+            id: user.id,
             accessToken: 'Bearer ' + accessToken, 
             email: user.email,
             name: user.name,

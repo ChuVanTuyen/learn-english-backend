@@ -11,6 +11,7 @@ export class AuthController {
         private authService: AuthService
     ) {}
 
+    @Public()
     @Post('register')
     async register(@Body() registerDto: RegisterDto) {
         return this.authService.register(registerDto);
@@ -23,7 +24,6 @@ export class AuthController {
         return this.authService.login(req.user);
     }
 
-    // @UseGuards(JwtAuthGuard)
     @Get('profile')
     getProfile(@Request() req) {
         return req.user;

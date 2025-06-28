@@ -69,39 +69,36 @@ export class PracticeService {
                 ...history,
                 user_id: userId
             });
-            const savedHistory = await this.historyPracticeRepository.save(newHistory);
+            await this.historyPracticeRepository.save(newHistory);
 
             const newSumaryPractice = {
-                done_question_ids: summary.done_question_ids,
-                false_question_ids: summary.false_question_ids,
+                done_questions: summary.done_questions,
+                false_questions: summary.false_questions,
                 user_id: userId
             };
 
-            const syncSummaryPractice = await this.summaryPracticeRepository.upsert(
+            await this.summaryPracticeRepository.upsert(
                 newSumaryPractice,
                 ['user_id']
-            )
-
-            // Chuyển đổi sang DTO trả về
-            const response = {
-                history: {
-                    id: savedHistory.id,
-                    content: savedHistory.content,
-                    total: savedHistory.total,
-                    time: savedHistory.time,
-                    correct: savedHistory.correct,
-                    part_id: savedHistory.part_id,
-                    created_at: savedHistory.created_at,
-                    updated_at: savedHistory.updated_at,
-                },
-                summary: syncSummaryPractice
-            };
-
-            this.logger.log(`History created successfully: ${savedHistory.id}`);
-            return response;
+            );
+            return 'Save history successfully';
         } catch (error) {
-            this.logger.error(`Failed to sync history: ${error.message}`, error.stack);
             throw new BadRequestException('Failed to save history');
         }
+    }
+
+    async getSummaryPractice(userId: number, partId: number) {
+        const summary = await this.summaryPracticeRepository.findOne({ where: { user_id: userId } });
+        const history = await this.historyPracticeRepository.find({ 
+            where: { user_id: userId , part_id: partId},
+            order: {
+                created_at: 'DESC'
+            },
+            take: 10
+        });
+        return {
+            summary: summary,
+            history: history
+        };
     }
 }

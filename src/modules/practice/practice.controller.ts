@@ -29,4 +29,11 @@ export class PracticeController {
     ) {
         return this.practiceService.syncHistoryPractice(history, summary, req.user.userId);
     }
+
+    @Get('summary-history-practice/:partId')
+    async getSummaryPractice(@Request() req, @Param('partId') partId: number) {
+        return this.practiceService.getSummaryPractice(req.user.userId, partId);
+    }
+
+
 }
