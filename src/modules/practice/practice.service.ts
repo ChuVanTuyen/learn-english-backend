@@ -25,19 +25,26 @@ export class PracticeService {
     ) { }
 
     async getListQuestion(partId: number, count: number) {
-        const questions = await this.questionRepository
+
+        const randomQuestions = await this.questionRepository
             .createQueryBuilder('question')
-            .leftJoinAndSelect('question.child_ques', 'child')
             .where('question.part_id = :partId', { partId })
             .orderBy('RAND()')
             .limit(count)
             .getMany();
 
-        for (const q of questions) {
+        const questionIds = randomQuestions.map(q => q.id);
+
+        const questionsWithChildren = await this.questionRepository.find({
+            where: { id: In(questionIds) },
+            relations: ['child_ques'],
+        });
+
+        for (const q of questionsWithChildren) {
             q.child_ques = q.child_ques.sort((a, b) => a.order_idx - b.order_idx);
         }
 
-        return questions;
+        return questionsWithChildren;
     }
 
     async getListQuestionByIds(quesByIdsDto: QuestionByIdsDto) {

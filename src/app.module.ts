@@ -11,6 +11,7 @@ import { APP_GUARD } from '@nestjs/core';
 import { JwtAuthGuard } from './modules/auth/passport/jwt-auth.guard';
 import { DictionaryModule } from './modules/dictionary/dictionary.module';
 import { NotebookModule } from './modules/notebook/notebook.module';
+import { EbookModule } from './modules/ebook/ebook.module';
 
 @Module({
   imports: [
@@ -23,7 +24,7 @@ import { NotebookModule } from './modules/notebook/notebook.module';
       password: process.env.DB_PASSWORD ?? '',
       database: process.env.DB_DATABASE,
       entities: [__dirname + '/database/entities/*.entity{.ts,.js}'],
-      synchronize: true,
+      synchronize: false,
     }),
     UserModule,
     AuthModule,
@@ -31,6 +32,7 @@ import { NotebookModule } from './modules/notebook/notebook.module';
     PracticeModule,
     DictionaryModule,
     NotebookModule,
+    EbookModule,
   ],
   controllers: [AppController],
   providers: [
