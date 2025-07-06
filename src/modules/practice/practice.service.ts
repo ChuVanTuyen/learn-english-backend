@@ -8,6 +8,7 @@ import { CreateHistoryPracticeDto } from './dto/history-practice.dto';
 import { SummaryPractice } from 'src/database/entities/summary-practice.entity';
 import { SumaryPracticeDto } from './dto/sumary-practice.dto';
 import { HistoryPractice } from 'src/database/entities/history-practice.entity';
+import e from 'express';
 
 @Injectable()
 export class PracticeService {
@@ -24,16 +25,44 @@ export class PracticeService {
         private readonly historyPracticeRepository: Repository<HistoryPractice>
     ) { }
 
-    async getListQuestion(partId: number, count: number) {
+    async getListQuestion(partId: number, count: number, userId: number) {
+        const summary = await this.summaryPracticeRepository.findOne({ where: { user_id: userId } });
 
-        const randomQuestions = await this.questionRepository
+        const excludeIds = summary?.done_questions?.[partId] || [];
+
+        // 1. Lấy ngẫu nhiên các câu CHƯA làm
+        const queryBuilder = this.questionRepository
             .createQueryBuilder('question')
-            .where('question.part_id = :partId', { partId })
+            .where('question.part_id = :partId', { partId });
+
+        if (excludeIds.length > 0) {
+            queryBuilder.andWhere('question.id NOT IN (:...excludeIds)', { excludeIds });
+        }
+
+        const primaryQuestions = await queryBuilder
             .orderBy('RAND()')
             .limit(count)
             .getMany();
 
-        const questionIds = randomQuestions.map(q => q.id);
+        let totalQuestions = [...primaryQuestions];
+
+        // 2. Nếu chưa đủ, lấy thêm từ danh sách đã làm (để bù)
+        if (totalQuestions.length < count && excludeIds.length > 0) {
+            const missingCount = count - totalQuestions.length;
+
+            const extraQuestions = await this.questionRepository
+                .createQueryBuilder('question')
+                .where('question.part_id = :partId', { partId })
+                .andWhere('question.id IN (:...includeIds)', { includeIds: excludeIds })
+                .orderBy('RAND()')
+                .limit(missingCount)
+                .getMany();
+
+            totalQuestions = [...totalQuestions, ...extraQuestions];
+        }
+
+        // 3. Lấy đầy đủ child_ques
+        const questionIds = totalQuestions.map(q => q.id);
 
         const questionsWithChildren = await this.questionRepository.find({
             where: { id: In(questionIds) },
@@ -46,6 +75,35 @@ export class PracticeService {
 
         return questionsWithChildren;
     }
+
+    async getRandomQuestionsFailed(partId: number, count: number, userId: number) {
+        const summary = await this.summaryPracticeRepository.findOne({ where: { user_id: userId } });
+
+        const questionIds = summary?.done_questions?.[partId] || [];
+        if (!questionIds || questionIds.length === 0) {
+            return [];
+        }
+
+        const randomQuestions = await this.questionRepository
+            .createQueryBuilder('question')
+            .where('question.part_id = :partId', { partId })
+            .andWhere('question.id IN (:...ids)', { ids: questionIds })
+            .orderBy('RAND()')
+            .limit(count)
+            .getMany();
+
+        const fullQuestions = await this.questionRepository.find({
+            where: { id: In(randomQuestions.map(q => q.id)) },
+            relations: ['child_ques'],
+        });
+
+        for (const q of fullQuestions) {
+            q.child_ques = q.child_ques.sort((a, b) => a.order_idx - b.order_idx);
+        }
+
+        return fullQuestions;
+    }
+
 
     async getListQuestionByIds(quesByIdsDto: QuestionByIdsDto) {
         return await this.questionRepository.find({
@@ -60,22 +118,18 @@ export class PracticeService {
     }
 
     async syncHistoryPractice(history: CreateHistoryPracticeDto, summary: SumaryPracticeDto, userId: number) {
-        // Ghi log đầu vào
-        this.logger.log(`Syncing history practice`);
-
-        // Kiểm tra part_id nếu có
         const part = await this.partRepository.findOne({ where: { id: history.part_id } });
         if (!part) {
-            this.logger.warn(`Part not found: ${history.part_id}`);
             throw new NotFoundException(`Part with ID ${history.part_id} not found`);
         }
 
         try {
-            // Tạo bản ghi history với user_id từ token
             const newHistory = this.historyPracticeRepository.create({
                 ...history,
                 user_id: userId
             });
+
+            console.log(newHistory);
             await this.historyPracticeRepository.save(newHistory);
 
             const newSumaryPractice = {
@@ -90,6 +144,7 @@ export class PracticeService {
             );
             return 'Save history successfully';
         } catch (error) {
+            console.log(error);
             throw new BadRequestException('Failed to save history');
         }
     }

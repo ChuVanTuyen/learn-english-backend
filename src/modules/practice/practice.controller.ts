@@ -12,8 +12,21 @@ export class PracticeController {
     ) {}
 
     @Get('list-question/:id/:count')
-    async getListQuestion(@Param('id') id: number, @Param('count') count: number) {
-        return this.practiceService.getListQuestion(id, count);
+    async getListQuestion(
+        @Param('id') id: number, 
+        @Param('count') count: number,
+        @Request() req
+    ) {
+        return this.practiceService.getListQuestion(id, count, req.user.userId);
+    }
+
+    @Get('list-question-failed/:id/:count')
+    async getRandQuesFailed(
+        @Param('id') id: number, 
+        @Param('count') count: number,
+        @Request() req
+    ) {
+        return this.practiceService.getRandomQuestionsFailed(id, count, req.user.userId);
     }
 
     @Post('list-question-ids')
