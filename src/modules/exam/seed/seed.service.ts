@@ -8,8 +8,6 @@ import { Exam } from 'src/database/entities/exam.entity';
 import { Skill } from 'src/database/entities/skill.entity';
 import { Part } from 'src/database/entities/part.entity';
 import { ChildrenQues } from 'src/database/entities/child-question.entity';
-import axios from 'axios';
-import { PartIntro } from 'src/database/entities/part-intro.entity';
 // import { createWriteStream, existsSync, mkdirSync } from 'fs';
 // import { join, dirname } from 'path';
 
@@ -43,6 +41,7 @@ export class SeedService {
         const newExam = await this.examRepo.save({
             name: exam.name,
             type: exam.type,
+            time: 120
         });
 
         let idPart = 1;
@@ -52,9 +51,8 @@ export class SeedService {
                 const newSkill = await this.skillRepo.save({
                     name: skill.name,
                     type: skill.type,
-                    time: skill.time,
-                    is_listening: skill.is_listening === 1,
-                    exam_id: newExam.id
+                    time: skill.is_listening === 1 ? 45 : 75,
+                    is_listening: skill.is_listening === 1
                 });
             }
             
@@ -71,14 +69,11 @@ export class SeedService {
 
                 let orderIdx = 0;
                 for (const ques of part.questions) {
-                    const arrAu = ques.audio.split('/');
-                    const audioUrl = ques.audio ? arrAu[arrAu.length - 1] : null;
-
                     const newQuestion = await this.questionRepo.save({
-                        ...(audioUrl ? { audio: audioUrl } : {}),
+                        audio: this.changeUrl(id, '/audio/', ques.audio),
                         text_audio: ques.text_audio,
                         text_audio_trans: ques.text_audio_trans ? JSON.parse(ques.text_audio_trans).vn : '',
-                        image: ques.image,
+                        image: this.changeUrl(id, '/image/', ques.image),
                         title: ques.title,
                         text_read: await this.processHtmlAndDownloadImages(ques.text_read, id),
                         text_read_trans: ques.text_read_trans ? JSON.parse(ques.text_read_trans).vn : '',
@@ -88,13 +83,11 @@ export class SeedService {
                     });
                     let order_child = 0;
                     for (const child of ques.childrens) {
-                        const arr = child.image.split('/');
-                        const imageUrl = child.image ? 'public/exam/test' + id + '/image/' + arr[arr.length - 1] : null;
                         await this.childrenRepo.save({
                             title: child.title,
                             answers: JSON.parse(child.answers),
                             correct_answer: child.correct_answer,
-                            ...(imageUrl ? { image: imageUrl } : {}),
+                            image: this.changeUrl(id, '/image/', child.image),
                             explains: child.explains ? JSON.parse(child.explains).vn : '',
                             write_answer: child.write_answer,
                             question_id: newQuestion.id,
@@ -126,6 +119,12 @@ export class SeedService {
         }
 
         return updatedHtml;
+    }
+
+    changeUrl(id: number, folder: string, oldUrl?: string) {
+        if(!oldUrl) return '';
+        const arrAu = oldUrl.split('/');
+        return 'public/exam/test' + id + folder + arrAu[arrAu.length - 1];
     }
 
     // async downloadAndSave(url: string, folder: string) {
