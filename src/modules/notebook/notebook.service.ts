@@ -117,6 +117,30 @@ export class NotebookService {
         }
     }
 
+    async deleteWord(id: number) {
+        // Lấy từ cần xóa để biết notebook_id
+        const word = await this.notebookWordRepo.findOne({ where: { id } });
+
+        if (!word) {
+            throw new NotFoundException(`NotebookWord with ID ${id} not found`);
+        }
+
+        // Xóa từ
+        const result = await this.notebookWordRepo.delete(id);
+
+        // Nếu xóa thành công, cập nhật lại total
+        if (result.affected && result.affected > 0) {
+            const notebook = await this.notebookRepo.findOne({ where: { id: word.notebook_id } });
+            if (notebook && notebook.total > 0) {
+                notebook.total -= 1;
+                await this.notebookRepo.save(notebook);
+            }
+        }
+
+        return { message: 'Từ đã được xóa thành công' };
+    }
+
+
     async updateNotebookWord(userId: number, notebookId: number, wordId: number, updateWordDto: UpdateNotebookWordDto) {
         try {
             // Kiểm tra notebook và từ vựng tồn tại, và thuộc về user
@@ -312,15 +336,6 @@ export class NotebookService {
             console.error('Error fetching notebook with words:', error);
             throw new InternalServerErrorException('Could not retrieve notebook and words');
         }
-    }
-
-    async deleteWord(id: number) {
-        const result = await this.notebookWordRepo.delete(id);
-        if (result.affected === 0) {
-            throw new NotFoundException(`NotebookWord with ID ${id} not found`);
-        }
-
-        return result;
     }
 
     async updateWordInNotebook(
