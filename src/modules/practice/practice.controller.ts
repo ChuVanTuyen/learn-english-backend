@@ -48,5 +48,13 @@ export class PracticeController {
         return this.practiceService.getSummaryPractice(req.user.userId, partId);
     }
 
+    @Get('detail-history/:id')
+    async getDetailHistory(
+        @Request() req, 
+        @Param('id') historyId: number
+    ) {
+        return this.practiceService.getDetailHistory(historyId, req.user.userId);
+    }
+
 
 }

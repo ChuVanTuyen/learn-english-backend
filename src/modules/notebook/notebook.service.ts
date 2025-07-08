@@ -232,7 +232,6 @@ export class NotebookService {
                 return { message: 'Di chuyển từ vựng thành công' };
             });
         } catch (error) {
-            console.log(error)
             if (error instanceof NotFoundException) {
                 throw error;
             }
@@ -325,7 +324,7 @@ export class NotebookService {
 
             const words = await this.notebookWordRepo.find({
                 where: { notebook_id: notebookId },
-                order: { created_at: 'DESC' }, // hoặc 'ASC' nếu muốn sắp xếp ngược lại
+                order: { created_at: 'DESC' },
             });
 
             return {

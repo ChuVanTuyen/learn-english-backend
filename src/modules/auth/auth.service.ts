@@ -30,7 +30,6 @@ export class AuthService {
                 updated_at: newUser.updated_at
             }
         } catch (error) {
-            console.log(error);
             throw new InternalServerErrorException('Failed to register');
         }
     }

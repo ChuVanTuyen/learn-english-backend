@@ -21,7 +21,6 @@ async function bootstrap() {
     } else {
         examPath = dockerPath;
     }
-    console.log(examPath);
     app.useStaticAssets(examPath, {
         prefix: '/public/exam/',
     });

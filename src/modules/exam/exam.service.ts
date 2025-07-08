@@ -127,7 +127,6 @@ export class ExamService {
             };
             return response;
         } catch (error) {
-            console.log(error);
             throw new BadRequestException('Failed to save history');
         }
     }
@@ -150,7 +149,6 @@ export class ExamService {
     }
 
     async getDetailHistory(user_id: number, historyId: number) {
-        console.log(user_id, historyId);
         try {
             const detailHistory = await this.historyExamRepo.findOne({
                 where: {user_id, id: historyId}

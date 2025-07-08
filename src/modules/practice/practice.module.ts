@@ -7,10 +7,11 @@ import { Part } from 'src/database/entities/part.entity';
 import { Exam } from 'src/database/entities/exam.entity';
 import { SummaryPractice } from 'src/database/entities/summary-practice.entity';
 import { HistoryPractice } from 'src/database/entities/history-practice.entity';
+import { ChildrenQues } from 'src/database/entities/child-question.entity';
 
 @Module({
   imports: [
-    TypeOrmModule.forFeature([Question, Part, Exam, SummaryPractice, HistoryPractice])
+    TypeOrmModule.forFeature([Question, Part, Exam, SummaryPractice, HistoryPractice, ChildrenQues])
   ],
   controllers: [PracticeController],
   providers: [PracticeService]

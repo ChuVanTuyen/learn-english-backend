@@ -9,6 +9,7 @@ import { SummaryPractice } from 'src/database/entities/summary-practice.entity';
 import { SumaryPracticeDto } from './dto/sumary-practice.dto';
 import { HistoryPractice } from 'src/database/entities/history-practice.entity';
 import e from 'express';
+import { ChildrenQues } from 'src/database/entities/child-question.entity';
 
 @Injectable()
 export class PracticeService {
@@ -22,7 +23,9 @@ export class PracticeService {
         @InjectRepository(SummaryPractice)
         private readonly summaryPracticeRepository: Repository<SummaryPractice>,
         @InjectRepository(HistoryPractice)
-        private readonly historyPracticeRepository: Repository<HistoryPractice>
+        private readonly historyPracticeRepository: Repository<HistoryPractice>,
+        @InjectRepository(ChildrenQues)
+        private childrenQuesRepository: Repository<ChildrenQues>,
     ) { }
 
     async getListQuestion(partId: number, count: number, userId: number) {
@@ -79,7 +82,7 @@ export class PracticeService {
     async getRandomQuestionsFailed(partId: number, count: number, userId: number) {
         const summary = await this.summaryPracticeRepository.findOne({ where: { user_id: userId } });
 
-        const questionIds = summary?.done_questions?.[partId] || [];
+        const questionIds = summary?.false_questions?.[partId] || [];
         if (!questionIds || questionIds.length === 0) {
             return [];
         }
@@ -117,6 +120,51 @@ export class PracticeService {
         });
     }
 
+    async getDetailHistory(historyPracticeId: number, userId: number) {
+
+        const historyPractice = await this.historyPracticeRepository.findOne({
+            where: { id: historyPracticeId, user_id: userId },
+        });
+
+        if (!historyPractice) {
+            throw new NotFoundException(
+                `History practice with ID ${historyPracticeId} not found or does not belong to user ${userId}`,
+            );
+        }
+
+        const childrenQuesIds = Object.keys(historyPractice.content).map(Number);
+
+        if (childrenQuesIds.length === 0) {
+            return {
+                message: 'No questions found in this history practice',
+                data: [],
+            };
+        }
+
+        // Tìm tất cả children_ques theo danh sách IDs
+        const childrenQuestions = await this.childrenQuesRepository.find({
+            where: { id: In(childrenQuesIds) }
+        });
+
+        // Lấy danh sách question IDs từ children_ques
+        const questionIds = [...new Set(childrenQuestions.map((child) => child.question_id))];
+
+        // Tìm tất cả questions theo danh sách question IDs, kèm child_ques và sắp xếp
+        const questions = await this.questionRepository.find({
+            where: { id: In(questionIds) },
+            relations: ['child_ques'],
+            order: {
+                child_ques: {
+                    order_idx: 'ASC',
+                },
+            },
+        });
+        return {
+            historyPractice, 
+            questions
+        };
+    }
+
     async syncHistoryPractice(history: CreateHistoryPracticeDto, summary: SumaryPracticeDto, userId: number) {
         const part = await this.partRepository.findOne({ where: { id: history.part_id } });
         if (!part) {
@@ -128,8 +176,6 @@ export class PracticeService {
                 ...history,
                 user_id: userId
             });
-
-            console.log(newHistory);
             await this.historyPracticeRepository.save(newHistory);
 
             const newSumaryPractice = {
@@ -142,17 +188,16 @@ export class PracticeService {
                 newSumaryPractice,
                 ['user_id']
             );
-            return 'Save history successfully';
+            return newHistory;
         } catch (error) {
-            console.log(error);
             throw new BadRequestException('Failed to save history');
         }
     }
 
     async getSummaryPractice(userId: number, partId: number) {
         const summary = await this.summaryPracticeRepository.findOne({ where: { user_id: userId } });
-        const history = await this.historyPracticeRepository.find({ 
-            where: { user_id: userId , part_id: partId},
+        const history = await this.historyPracticeRepository.find({
+            where: { user_id: userId, part_id: partId },
             order: {
                 created_at: 'DESC'
             },
